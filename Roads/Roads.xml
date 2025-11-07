@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <pubdate>20131007</pubdate>
+                <pubtime>105500</pubtime>
+                <title>Roads</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <publish>Ruth Aslanis</publish>
+                </pubinfo>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This feature class was drawn from  combining segments from the roads centerline feature class created and maintained by Tompkins County. It was supplemented with the City's street book data form Streets and Facilities Division and some records research and reliance on institutional knowledge as to ownership and responsibility of long standing management employees. It has been added to at times for particular projects and priorities.  </abstract>
+            <purpose>This is the City's created source of road responsibility data. It is used for base mapping, ownership, maintenance responsibility and planning.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>19911118</begdate>
+                    <enddate>20130822</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>Data source was last published in August of 2013.</current>
+        </timeperd>
+        <status>
+            <progress>In work</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-76.526620</westbc>
+                <eastbc>-76.470699</eastbc>
+                <northbc>42.463934</northbc>
+                <southbc>42.418178</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>planningCadastre</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>road</themekey>
+                <themekey>street</themekey>
+                <themekey>pavement</themekey>
+                <themekey>open data</themekey>
+                <themekey>transportation</themekey>
+                <themekey>open data</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>General reference only. Not a legal document. The following statement must be included with any products that use or are derived from this data set: "Data contained in this product was originally produced by the GIS Program, City of Ithaca, NY. The originator does not warrant the accuracy or completeness of the information portrayed by the data." Please use data at the scale in which it was intended to be used and with consideration for the limits of its quality.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>City of Ithaca</cntorg>
+                    <cntper>GIS Program</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>510 First Street</address>
+                    <city>Ithaca</city>
+                    <state>New York</state>
+                    <postal>14850</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>607-272-1717</cntvoice>
+            </cntinfo>
+        </ptcontac>
+        <datacred>City of Ithaca, GIS Program, Street and facilities Division, Engineering Division</datacred>
+        <native>Esri ArcGIS 13.1.0.41833</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>String</sdtstype>
+                <ptvctcnt>0</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Pavement</enttypl>
+                <enttypd>Building footprints located in the City of Ithaca</enttypd>
+                <enttypds>City of Ithaca</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ALTNAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>TOTALANES</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ROW_WIDTH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>WIDTH_C_C</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SIDEWLK1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Fromstreet</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>StateRte</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>FCLASS2014</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>STATERESP</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>OWNERSHIP</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>WIDTHAPPRO</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Location_n</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>OWNTYPE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MGTRESPONB</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>lengthinv</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>RINNUM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>BLOCK</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>DIRECT1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ToStreet</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>DeedyrBkPg</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>RESPONSEROUTE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SURFACETXT</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>STATEROUTEYN</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHOULDTEXT</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20240223</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>City of Ithaca GIS program</cntorg>
+                    <cntper>Ruth Aslanis</cntper>
+                </cntorgp>
+                <cntpos>GIS Administrator</cntpos>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metuc>The following statement must be included with any products that use or are derived from this data set: "Data contained in this product was originally produced by the GIS Program, City of Ithaca, NY. The originator does not warrant the accuracy or completeness of the information portrayed by the data." Please use data at the scale in which it was intended to be used and with consideration for the limits of its quality.</metuc>
+    </metainfo>
+</metadata>
