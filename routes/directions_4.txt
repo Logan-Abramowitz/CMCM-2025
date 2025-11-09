@@ -1,0 +1,35 @@
+Route 5 Directions:
+
+Start on Campbell Ave
+Make a U-turn on Campbell Ave
+Turn left onto N Taylor Pl
+Make a U-turn on Hector St
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Turn left onto Fallview Ter
+Make a U-turn on Brookfield Rd
+Turn left onto Williams Glen Rd
+Make a U-turn on Williams Glen Rd
+Turn left onto Brookfield Rd
+Turn left onto Vinegar Hill
+Make a U-turn on Cliff St
+Turn left onto Campbell Ave
+Turn left onto Oakwood La
+Make a U-turn on Brookfield Rd
+Turn right onto Oakwood La
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Hector St
+Turn right onto Cove La
+Make a U-turn on Taughannock Blvd
+Turn right onto Runway La
+Make a U-turn on Cove La
+Turn left onto Cove La
+Turn left onto Cove La
+Turn right onto Cove La
+Turn right onto Taughannock Blvd
+Turn right onto Cass Park
+Turn left onto Runway La
+Turn right onto Cove La
+Make a U-turn on Taughannock Blvd
+Arrive at destination

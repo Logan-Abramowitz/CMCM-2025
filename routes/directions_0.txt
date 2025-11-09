@@ -1,0 +1,60 @@
+Route 1 Directions:
+
+Start on Stewart Ave
+Turn left onto Stewart Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Stewart Ave
+Turn left onto Stewart Ave
+Turn right onto E State St / M.L.K. Jr St
+Turn right onto S Quarry St
+Make a U-turn on Ferris Pl
+Turn left onto Pearsall Pl
+Make a U-turn on Hudson St
+Turn right onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hillview Pl
+Turn left onto South Hill Ter
+Make a U-turn on S Cayuga St
+Turn left onto S Cayuga St
+Turn left onto South Hill Ter
+Turn left onto Turner Pl
+Make a U-turn on E Clinton St
+Turn right onto Prospect St
+Turn left onto Pleasant St
+Turn left onto Turner Pl
+Turn left onto South Hill Ter
+Turn right onto Hillview Pl
+Turn right onto Crescent Pl
+Turn left onto Hawthorne Pl
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Grandview Ave
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn left onto Grandview Ave
+Turn left onto Columbia St
+Turn right onto Giles St
+Make a U-turn on Hudson St
+Turn left onto Columbia St
+Turn right onto Turner Pl
+Turn left onto Cottage Pl
+Turn left onto Columbia St
+Turn right onto Pleasant St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Pennsylvania Ave
+Turn left onto Hudson St
+Turn left onto Prospect St
+Make a U-turn on E Spencer St
+Turn left onto Turner Pl
+Make a U-turn on E Clinton St
+Turn right onto Prospect St
+Make a U-turn on Hudson St
+Arrive at destination

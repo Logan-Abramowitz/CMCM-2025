@@ -1,0 +1,41 @@
+Route 8 Directions:
+
+Start on Sunrise Rd
+Turn left onto Hopper Pl
+Make a U-turn on Hector St
+Turn right onto Sunrise Rd
+Turn right onto Sunrise Rd
+Make a U-turn on Taylor Pl
+Turn right onto Taylor Pl
+Turn left onto Hook Pl
+Turn left onto Haller Blvd
+Turn left onto Elm St
+Turn left onto Floral Ave
+Turn left onto Hector St
+Make a U-turn on Chestnut St
+Turn right onto Chestnut St
+Turn right onto Sunrise Rd
+Turn right onto Hector St
+Make a U-turn on Floral Ave
+Turn left onto Floral Ave
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn right onto Taylor Pl
+Turn right onto Sunrise Rd
+Turn right onto Sunrise Rd
+Make a U-turn on W State St/ M. L. K. Jr St Bridge
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Taughannock Blvd
+Make a U-turn on W Seneca St
+Turn left onto W Seneca St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Make a U-turn on W Seneca St
+Turn right onto W Seneca St
+Make a U-turn on W Buffalo St
+Arrive at destination

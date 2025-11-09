@@ -1,0 +1,24 @@
+Route 3 Directions:
+
+Start on S Fulton St
+Make a U-turn on N Meadow St
+Turn left onto N Meadow St
+Turn left onto Third St
+Make a U-turn on Cascadilla St
+Turn left onto Cascadilla St
+Make a U-turn on Franklin St
+Turn left onto Franklin St
+Turn left onto Third St
+Turn left onto Adams St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Turn left onto Hancock St
+Turn right onto N Meadow St
+Turn left onto Esty St
+Make a U-turn on S Fulton St
+Turn left onto S Fulton St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on Third St
+Arrive at destination

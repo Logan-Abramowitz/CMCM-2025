@@ -1,0 +1,91 @@
+Route 4 Directions:
+
+Start on Maple Ave
+Make a U-turn on Dryden Rd
+Turn left onto Maple Ave
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn right onto Valley Rd
+Make a U-turn on E State St / M.L.K. Jr St
+Turn right onto Valley Rd
+Make a U-turn on Giles St
+Turn left onto Giles St
+Turn left onto Bridge St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Water St
+Turn right onto Water St
+Turn right onto E State St / M.L.K. Jr St
+Turn left onto Bridge St
+Turn right onto Oak Ave
+Make a U-turn on Brandon Pl
+Turn left onto College Ave
+Turn right onto Cornell St
+Turn right onto Valley Rd
+Turn right onto Ridgedale Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Harvard Pl
+Turn left onto Bryant Ave
+Turn left onto Linden Ave
+Turn left onto Mitchell St
+Turn right onto Dryden Rd
+Make a U-turn on Dryden Rd
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Linden Ave
+Make a U-turn on Dryden Rd
+Turn right onto Dryden Rd
+Turn right onto Fairmount Ave
+Make a U-turn on Maple Grove Pl
+Turn left onto Maple Grove Pl
+Turn left onto Dryden Rd
+Turn left onto Fairmount Ave
+Turn right onto Fairmount Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Worth St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Summit Ave
+Turn left onto Summit Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Catherine St
+Make a U-turn on Eddy St
+Turn left onto Catherine St
+Make a U-turn on College Ave
+Turn left onto Cook St
+Make a U-turn on Eddy St
+Turn right onto Cook St
+Turn left onto Bool St
+Turn left onto Linden Ave
+Make a U-turn on Dryden Rd
+Turn right onto Dryden Rd
+Turn left onto Elmwood Ave
+Turn right onto Fairmount Ave
+Turn left onto Irving Pl
+Turn left onto Oxford Pl
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn right onto Valley Rd
+Turn right onto Dunmore Pl
+Make a U-turn on Brandon Pl
+Turn right onto Dunmore Pl
+Make a U-turn on Valentine Pl
+Turn right onto Valentine Pl
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Arrive at destination

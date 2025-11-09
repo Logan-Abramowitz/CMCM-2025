@@ -1,0 +1,512 @@
+Station,Road #,Count Location,Municipality,From,To,Year,AADT
+8836,CR131A,Adams Rd,T/Newfield,Shaffer Rd,Newfield Depot Rd,2024,681
+8613,,Albany St,C/Ithaca,Traffic Circle,Titus Ave S,2024,2272
+6015,,Albany St S,C/Ithaca,Titus Ave N,Cascadilla St,2024,1710
+8418,,Armstrong Rd,T/Lansing,Asbury Rd,Rt 34B,2024,513
+18,20,Aurora St,C/Ithaca,Ithaca C/L,Cayuga  St,2024,10573
+2016,90,Benson Rd,T/Lansing,Rt 34B Asbury,Rd,2024,283
+8704,,Birchwood Dr,T/Ithaca,Salem Dr,End,2024,286
+8828,,Bostwick Rd,T/Enfield,Applegate Rd,S Enfield T/L,2024,1128
+8507,,Brooktondale Rd,T/Caroline,Valley Rd,Rt 79,2024,1816
+1003,20,Burns Rd,T/Ithaca,Rt 79,Coddington  Rd,2024,2076
+2200,CR113,Caroline Depot Rd,T/Caroline,Coddington Rd,Perkins Rd,2024,326
+8602,,Cascadilla St,C/Ithaca,Fulton St,Cayuga St,2024,2554
+8309,,Cayuga Hgts Rd,V/Lansing,Cedar Ln,Oakcrest Rd,2024,800
+6023,,Cayuga St N,C/Ithaca,Cascadilla St,Farm St,2024,5380
+6016,200,Cayuga St S,C/Ithaca,Spencer St W,Green St,2024,7724
+6123,CR103A,Champlin Rd,T/Groton,Old Stage Rd,Groton City Rd,2024,480
+8007,,Cobb Rd,T/Dryden,Rt 34B Groton,T/L,2024,155
+2210,,Cobb St,T/Groton,Pleasant Valley Rd,Sovocol Hil Rd,2024,594
+8510,,Coddington Rd,T/Ithaca,Danby T/L,King  Rd,2024,1226
+6040,CR101,College Ave,C/Ithaca,Mitchell St,Oak Ave,2024,2166
+8216,CR128,Comfort Rd,T/Danby,Miller Rd,Jersey Hill Rd,2024,521
+2028,,Cornell St,C/Ithaca,State St E,Ithaca Rd,2024,2038
+8505,,Ellis Hollow Rd,T/Dryden,Ithaca T/L Thomas,Rd,2024,2320
+8802,,Ellis Hollow Rd,T/Dryden,Thomas Rd,Ellis Hollow Creek Rd,2024,1321
+1004,400,Ellis Hollow Rd,T/Ithaca,Pine Tree Rd,Dryden T/L,2024,3796
+8201,CR105,Fall Creek Rd,T/Dryden,Cady Ln,North Rd,2024,4870
+8114,,Farrell Rd,T/Lansing,Warren Rd,Dryden T/L,2024,1452
+1212,,Forest Home Dr,C/Ithaca,Thurston Ave,Ithaca C/L,2024,1456
+1209,,Forest Home Dr,T/Dryden,Rt 366 Ithaca,T/L,2024,738
+1202,CR108,Forest Home Dr,T/Ithaca,Caldwell Rd,Dryden T/L,2024,810
+8220,CR173,Game Farm Rd,T/Ith-T/Dry,Stevenson Rd,Rt 366,2024,2013
+6019,,Giles St,C/Ithaca,Columbia St,Water St,2024,3161
+8603,,Giles St,C/Ithaca,Water St,State St E,2024,2651
+6020,,Hancock St,C/Ithaca,Meadow St,Auburn St,2024,1584
+8822,740,Hanshaw Rd,T/Ithaca,Cayuga Hgts Rd,Warren Rd,2024,3883
+1206,160,Hanshaw Rd,V/Cayuga,Hgts Cayuga Hgts Rd,N Triphammer Rd,2024,1062
+8402,,Hanshaw Rd,V/Cayuga,Hgts N Triphammer Rd,Ithaca T/L,2024,8087
+7001,,Hillview Rd,T/Caroline,Rt 34 96 Michigan,Hollow Rd,2024,114
+8303,,Hornbrook Rd,T/Danby,Rt 96B Nelson,Rd,2024,196
+8513,160,Hudson St,C/Ithaca,Grandview Ave,Prospect St,2024,3112
+4022,930,Hudson St,C/Ithaca,Prospect St,Aurora St,2024,2176
+1204,,Judd Falls Rd,T/Ithaca,Dryden Rd,Tower Rd,2024,3811
+6042,,Judd Falls Rd,T/Ithaca,Tower Rd,Forest Home Dr,2024,6164
+8511,,King Rd E,T/Ithaca,Rt 96B,Coddington Rd,2024,2059
+2205,460,Kraft Rd,T/Ulysses,Dubois Rd,Rt 89,2024,160
+2208,CR141,Krums Cors Rd,T/Ulysses,Rt 96 Dubois,Rd,2024,131
+8102,,LaFayette Rd,T/Groton,Cemetery Ln,Rt 222,2024,320
+6021,,Madison St,C/Ithaca,Willow Ave,Second St,2024,439
+6036,,Main St - Newfield,T/Newfield,Shaffer Rd,Rt 13,2024,1093
+4027,CR180,Maple Ave,C/Ithaca,Dryden Rd,Ithaca T/L,2024,1650
+2035,545,Maple Ave,T/Ithaca,Pine Tree Rd,Ithaca C/L,2024,1464
+6096,,Mill St,V/Dryden,Ferguson Rd,West Main St,2024,194
+7019,,Milliken Rd,T/Lansing,Cayuga Dr,Milliken Station Ext,2024,265
+2042,,Mitchell St,C/Ithaca,Ithaca Rd,Ithaca T/L,2024,3403
+8002,250,Mitchell St,T/Ithaca,Ithaca C/L Pine,Tree Rd,2024,3332
+8850,CR100,N Lansing School Rd,T/Lansing,Van Ostrand Rd,Groton T/L,2024,452
+6134,,N Triphammer Rd,T/Lansing,Waterwagon Rd,Rt 34B,2024,7383
+8316,,Newfield Depot Rd,T/Newfield,Adams Rd,Valley Manor Rd,2024,1271
+2203,,Old 76 Rd,T/Caroline,Buffalo Rd,Grove School Rd,2024,415
+8508,CR122,Old 76 Rd,T/Caroline,Yaple Rd,Buffalo Rd,2024,361
+8522,180,Old Stage Rd,T/Groton,Rt 38 Salt,Rd,2024,599
+8829,,Perry City Rd,T/Ulysses,Rt 96, Rt 89,2024,372
+8501,,Peruville Rd,T/Gro-T/Dry,Rt 38 Fall,Creek Rd,2024,3152
+4030,,Plain St N,C/Ithaca,Court St,Cascadilla St,2024,1261
+6014,CR142,Plain St S,C/Ithaca,Elmira Rd,Titus Ave N,2024,1447
+4028,1350,Plain St S,C/Ithaca,Green St,Buffalo St,2024,1904
+8851,,Portland Point,T/Lansing,Cement Plant Rt,34B,2024,550
+35,,Rt 13,V/Lansing,Warren Rd,Hanshaw Rd,2024,15035
+433,,Rt 13 - Cortland Rd,T/Dryden,End 13 38 OLAP,County Line,2024,10040
+8,CR150,Rt 13 - Dryden Rd,T/Dryden,Start 13 366 OLAP End,13 366 OLAP,2024,16272
+477,NY13,Rt 13 - Elmira Rd,T/Ithaca,Rt 327,Rt 13A,2024,17218
+480,,Rt 13 - Elmira Rd,T/Ithaca,Start 13 34 96 OLAP,Rt 327,2024,17218
+10,,Rt 13 - North St,V/Dryden,Start 13 38 OLAP End,13 38 OLAP,2024,11404
+5,,Rt 327 - Enfield Main Rd,T/Ithaca,Rt13 34 96,Gray Rd,2024,615
+571,NY13,Rt 34 - Auburn Rd,T/Lansing,Start 34B OLAP End,34B OLAP,2024,7637
+457,NY34,Rt 34 - East Shore Dr,C/Ithaca,End 13 OLAP,Start 34 34B OLAP,2024,7280
+482,,Rt 34 - West Danby Rd,T/Newfield,County Line Newfield,Depot Rd,2024,6421
+37,,Rt 34B - Peruville Rd,T/Gro-T/Dry,Benson Rd,Rt 38,2024,5243
+38,,Rt 34B - Peruville Rd,T/Lansing,End 34 OLAP,Benson Rd,2024,4753
+454,NY34,Rt 34B - Ridge Rd,T/Lansing,County Line Lansingville,Rd,2024,2752
+456,NY34B,Rt 34B - Ridge Rd,T/Lansing,Lansingville Rd,Start 34 OLAP,2024,3199
+14,,Rt 366 - Dryden Rd,T/Dryden,Forest Home Dr,Start 13 366 OLAP,2024,7434
+12,,Rt 366 - Dryden Rd,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,6068
+22,,Rt 366 - Ithaca Rd,C/Ithaca,State St E,Ithaca T/L,2024,5115
+9,NY366,Rt 366 - Main St,V/Freeville,Freeville V/L,Rt 38,2024,4991
+434,NY38,Rt 38 - Freeville Rd,T/Dryden,End 13 OLAP,Rt 366,2024,3035
+43,,Rt 38 - Groton Rd,T/Dryden,Rt 366 Rt,34B,2024,2474
+126,,Rt 38 - Peru Rd,T/Groton,Rt 34B Rt,Rt 222,2024,2754
+39,,Rt 392 - Virgil Rd,T/Dryden,Rt 13 County,Line,2024,1523
+440,NY38,Rt 79 - E State St,C/Ithaca,Ithaca C/L,Cornell St,2024,5606
+478,NY79,Rt 79 - Mecklenburg Rd,T/Enfield,Ithaca C/L,Rt 327,2024,3651
+330,,Rt 79 - Mecklenburg Rd,T/Enfield,Rt 327 County,Line,2024,2782
+50,,Rt 79 - Seneca St,C/Ithaca,Fulton St,Rt 89,2024,4087
+443,,Rt 79 - Slaterville Rd,T/Dryden,Brooktondale Rd,Pine Tree Rd,2024,7183
+474,NY79,Rt 79 - Taughannock Blvd,C/Ithaca,Rt 89 96,Floral Ave,2024,15684
+465,NY96,Rt 96 - Trumansburg Rd,T/Ulysses,Perry City Rd,Halseyville Rd,2024,5900
+462,,Rt 96 - Trumansburg Rd,V/TrumansburgRt,227 County,Line,2024,4944
+32,,Rt 96B - Danby Rd,T/Danby,County Line Michigan,Hollow Rd,2024,3737
+11,,Rt 96B - Danby Rd,T/Danby,Michigan Hollow Rd,King Rd E,2024,5107
+8318,NY96,Sebring Rd,T/Newfield,Rt 13 Test,Rd,2024,309
+8320,CR132,Shaffer Rd,T/Newfield,County Line Taggart,Rd,2024,403
+8412,,Sheffield Rd,T/Ith-T/Enf,Bostwick Rd,Hayts Rd,2024,652
+8812,,Sheffield Rd,T/Ith-T/Enf,Hayts Rd,Iradell Rd,2024,433
+8118,,Sheldon Rd,T/Dryden,Neimi Rd,Rt 34B,2024,422
+8515,CR172,South Danby Rd,T/Danby,County Line Rt,96B,2024,433
+8211,470,South Rd,T/Caroline,Old 76 Rd,County Line,2024,349
+2039,,Spencer Rd,C/Ithaca,Stone Quarry Rd,Traffic Circle,2024,3903
+6027,,Stewart Ave,C/Ithaca,State St E,South St,2024,4500
+4038,,Stewart Ave,C/Ithaca,University Ave,Williard Way,2024,1466
+8512,1540,Stone Quarry Rd,T/Ithaca,King Rd,Ithaca C/L,2024,3741
+5005,340,Sykes St,V/Groton,South St,W Spring St,2024,502
+36,,Taughannock Blvd,C/Ithaca,End 96 OLAP,Ithaca T/L,2024,5248
+8837,,Troy Rd,T/Ithaca,King Rd E,Coddington Rd,2024,534
+6122,,Trumbulls Cors Rd,T/Enfield,Connecticut Hill Rd,Rt 327,2024,435
+8005,1620,Trumbulls Cors Rd,T/Newfield,Main St,Rt 13,2024,1364
+2220,130,Upland Rd E,V/Cayuga,Hgts Highland Rd,Hanshaw Rd,2024,375
+8209,,Valley Rd,T/Caroline,Burns Rd,White Church Rd,2024,795
+6002,,Valley Rd,T/Caroline,Valley Rd,(town) Old Brooktondale Rd,2024,1137
+8319,,Van Kirk Rd,T/Newfield,County Line Chaffee,Creek Rd,2024,209
+8215,CR115,W Jersey Hill Rd,T/Danby,Town Line Rd,King Rd W,2024,275
+7002,530,Walding Ln,T/Caroline,Rt 34 96,End,2024,9
+6069,,Walpole Rd,T/Groton,Groton V/L Rt, Rt 38,2024,905
+8310,,Warren Rd,T/Ithaca,Forest Home Dr,Hanshaw Rd,2024,4137
+8825,,Warren Rd,T/Ithaca,Hanshaw Rd,Lansing V/L,2024,4503
+8001,340,West Dryden Rd,T/Dryden,Asbury Rd,Sheldon Rd,2024,2128
+8008,CR108,West Dryden Rd,T/Dryden,Lansing T/L Asbury,Rd,2024,1451
+8107,,West Groton Rd,T/Groton,Lansing T/L Spring St,Ext,2024,350
+2222,CR100,White Church Rd,T/Caroline,Caroline Depot Rd,Valley Rd,2024,510
+6015,20,Albany St S,C/Ithaca,Titus Ave N,Cascadilla St,2024,1710
+8613,,Albany St,C/Ithaca,Traffic Circle,Titus Ave S,2024,2272
+8418,,Armstrong Rd,T/Lansing,Asbury Rd,Rt 34B,2024,513
+8704,,Birchwood Dr,T/Ithaca,Salem Dr,End,2024,286
+18,20,Aurora St,C/Ithaca,Ithaca C/L,Cayuga St,2024,10573
+2016,90,Benson Rd,T/Lansing,Rt 34B Asbury,Rd,2024,283
+8309,,Cayuga Hgts Rd,V/Lansing,Cedar Ln,Oakcrest Rd,2024,800
+2220,,Upland Rd E,V/Cayuga,Hgts Highland Rd,Hanshaw Rd,2024,375
+1206,,Hanshaw Rd,V/Cayuga,Hgts Cayuga Hgts Rd,N Triphammer Rd,2024,1062
+8402,120,Hanshaw Rd,V/Cayuga,Hgts N Triphammer Rd,Ithaca T/L,2024,8087
+8522,180,Old Stage Rd,T/Groton,Rt 38 Salt,Rd,2024,599
+8501,,Peruville Rd,T/Gro-T/Dry,Rt 38 Fall,Creek Rd,2024,3152
+8602,,Cascadilla St,C/Ithaca,Fulton St,Cayuga St,2024,2554
+6016,,Cayuga St S,C/Ithaca,Spencer St W,Green St,2024,7724
+6023,190,Cayuga St N,C/Ithaca,Cascadilla St,Farm St,2024,5380
+6096,250,Mill St,V/Dryden,Ferguson Rd,West Main St,2024,194
+1212,,Forest Home Dr,C/Ithaca,Thurston Ave,Ithaca C/L,2024,1456
+6040,,College Ave,C/Ithaca,Mitchell St,Oak Ave,2024,2166
+5005,,Sykes St,V/Groton,South St,W Spring St,2024,502
+6069,280,Walpole Rd,T/Groton,Groton V/L Rt,Rt 38,2024,905
+2028,400,Cornell St,C/Ithaca,State St E,Ithaca Rd,2024,2038
+1209,,Forest Home Dr,T/Dryden,Rt 366 Ithaca,T/L,2024,738
+6036,,Main St - Newfield,T/Newfield,Shaffer Rd,Rt 13,2024,1093
+1204,,Judd Falls Rd,T/Ithaca,Dryden Rd,Tower Rd,2024,3811
+6042,400,Judd Falls Rd,T/Ithaca,Tower Rd,Forest Home Dr,2024,6164
+8211,470,South Rd,T/Caroline,Old 76 Rd,County Line,2024,349
+7002,,Walding Ln,T/Caroline,Rt 34 96,End,2024,9
+8215,,W Jersey Hill Rd,T/Danby,Town Line Rd,King Rd W,2024,275
+2035,,Maple Ave,T/Ithaca,Pine Tree Rd,Ithaca C/L,2024,1464
+1202,530,Forest Home Dr,T/Ithaca,Caldwell Rd,Dryden T/L,2024,810
+6019,740,Giles St,C/Ithaca,Columbia St,Water St,2024,3161
+8603,,Giles St,C/Ithaca,Water St,State St E,2024,2651
+6020,,Hancock St,C/Ithaca,Meadow St,Auburn St,2024,1584
+4022,,Hudson St,C/Ithaca,Prospect St,Aurora St,2024,2176
+8513,740,Hudson St,C/Ithaca,Grandview Ave,Prospect St,2024,3112
+8512,960,Stone Quarry Rd,T/Ithaca,King Rd,Ithaca C/L,2024,3741
+2042,,Mitchell St,C/Ithaca,Ithaca Rd,Ithaca T/L,2024,3403
+8002,,Mitchell St,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,3332
+6021,,Madison St,C/Ithaca,Willow Ave,Second St,2024,439
+4027,1100,Maple Ave,C/Ithaca,Dryden Rd,Ithaca T/L,2024,1650
+4028,1350,Plain St S,C/Ithaca,Green St,Buffalo St,2024,1904
+4030,,Plain St N,C/Ithaca,Court St,Cascadilla St,2024,1261
+6014,,Plain St S,C/Ithaca,Elmira Rd,Titus Ave N,2024,1447
+2039,,Spencer Rd,C/Ithaca,Stone Quarry Rd,Traffic Circle,2024,3903
+7019,1350,Milliken Rd,T/Lansing,Cayuga Dr,Milliken Station Ext,2024,265
+4038,1570,Stewart Ave,C/Ithaca,University Ave,Williard Way,2024,1466
+6027,,Stewart Ave,C/Ithaca,State St E,South St,2024,4500
+36,,Taughannock Blvd,C/Ithaca,End 96 OLAP,Ithaca T/L,2024,5248
+8107,,West Groton Rd,T/Groton,Lansing T/L Spring St,Ext,2024,350
+8850,1570,N Lansing School Rd,T/Lansing,Van Ostrand Rd,Groton T/L,2024,452
+2210,CR101,Cobb St,T/Groton,Pleasant Valley Rd,Sovocol Hil Rd,2024,594
+8007,,Cobb Rd,T/Dryden,Rt 34B Groton,T/L,2024,155
+6123,,Champlin Rd,T/Groton,Old Stage Rd,Groton City Rd,2024,480
+8201,,Fall Creek Rd,T/Dryden,Cady Ln,North Rd,2024,4870
+8001,CR101,West Dryden Rd,T/Dryden,Asbury Rd,Sheldon Rd,2024,2128
+8008,CR108,West Dryden Rd,T/Dryden,Lansing T/L Asbury,Rd,2024,1451
+8114,,Farrell Rd,T/Lansing,Warren Rd,Dryden T/L,2024,1452
+8822,,Hanshaw Rd,T/Ithaca,Cayuga Hgts Rd,Warren Rd,2024,3883
+1004,,Ellis Hollow Rd,T/Ithaca,Pine Tree Rd,Dryden T/L,2024,3796
+8505,CR108,Ellis Hollow Rd,T/Dryden,Ithaca T/L Thomas,Rd,2024,2320
+8802,CR110,Ellis Hollow Rd,T/Dryden,Thomas Rd,Ellis Hollow Creek Rd,2024,1321
+2200,,Caroline Depot Rd,T/Caroline,Coddington Rd,Perkins Rd,2024,326
+2222,,White Church Rd,T/Caroline,Caroline Depot Rd,Valley Rd,2024,510
+2203,,Old 76 Rd,T/Caroline,Buffalo Rd,Grove School Rd,2024,415
+6002,CR113,Valley Rd,T/Caroline,Valley Rd,(town) Old Brooktondale Rd,2024,1137
+8209,CR115,Valley Rd,T/Caroline,Burns Rd,White Church Rd,2024,795
+8507,,Brooktondale Rd,T/Caroline,Valley Rd,Rt 79,2024,1816
+8508,,Old 76 Rd,T/Caroline,Yaple Rd,Buffalo Rd,2024,361
+1003,,Burns Rd,T/Ithaca,Rt 79,Coddington Rd,2024,2076
+8510,CR115,Coddington Rd,T/Ithaca,Danby T/L,King Rd,2024,1226
+8310,CR121,Warren Rd,T/Ithaca,Forest Home Dr,Hanshaw Rd,2024,4137
+8825,,Warren Rd,T/Ithaca,Hanshaw Rd,Lansing V/L,2024,4503
+6134,,N Triphammer Rd,T/Lansing,Waterwagon Rd,Rt 34B,2024,7383
+8303,,Hornbrook Rd,T/Danby,Rt 96B Nelson,Rd,2024,196
+8837,CR121,Troy Rd,T/Ithaca,King Rd E,Coddington Rd,2024,534
+8515,CR125,South Danby Rd,T/Danby,County Line Rt,96B,2024,433
+8216,,Comfort Rd,T/Danby,Miller Rd,Jersey Hill Rd,2024,521
+8316,,Newfield Depot Rd,T/Newfield,Adams Rd,Valley Manor Rd,2024,1271
+8836,,Adams Rd,T/Newfield,Shaffer Rd,Newfield Depot Rd,2024,681
+8319,CR128,Van Kirk Rd,T/Newfield,County Line Chaffee,Creek Rd,2024,209
+8320,CR132,Shaffer Rd,T/Newfield,County Line Taggart,Rd,2024,403
+6122,,Trumbulls Cors Rd,T/Enfield,Connecticut Hill Rd,Rt 327,2024,435
+8005,,Trumbulls Cors Rd,T/Newfield,Main St,Rt 13,2024,1364
+8318,,Sebring Rd,T/Newfield,Rt 13 Test,Rd,2024,309
+8828,CR133,Bostwick Rd,T/Enfield,Applegate Rd,S Enfield T/L,2024,1128
+2208,CR141,Krums Cors Rd,T/Ulysses,Rt 96 Dubois,Rd,2024,131
+8829,,Perry City Rd,T/Ulysses,Rt 96 Rt,Rt 89,2024,372
+2205,,Kraft Rd,T/Ulysses,Dubois Rd,Rt 89,2024,160
+8851,,Portland Point,T/Lansing,Cement Plant Rt,34B,2024,550
+8412,CR142,Sheffield Rd,T/Ith-T/Enf,Bostwick Rd,Hayts Rd,2024,652
+8812,CR172,Sheffield Rd,T/Ith-T/Enf,Hayts Rd,Iradell Rd,2024,433
+8220,,Game Farm Rd,T/Ith-T/Dry,Stevenson Rd,Rt 366,2024,2013
+8511,,King Rd E,T/Ithaca,Rt 96B,Coddington Rd,2024,2059
+8102,,LaFayette Rd,T/Groton,Cemetery Ln,Rt 222,2024,320
+8118,CR173,Sheldon Rd,T/Dryden,Neimi Rd,Rt 34B,2024,422
+7001,CR187,Hillview Rd,T/Caroline,Rt 34 96 Michigan,Hollow Rd,2024,114
+8,,Rt 13 - Dryden Rd,T/Dryden,Start 13 366 OLAP End,13 366 OLAP,2024,16272
+10,,Rt 13 - North St,V/Dryden,Start 13 38 OLAP End,13 38 OLAP,2024,11404
+12,,Rt 366 - Dryden Rd,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,6068
+35,NY13,Rt 13,V/Lansing,Warren Rd,Hanshaw Rd,2024,15035
+433,NY13,Rt 13 - Cortland Rd,T/Dryden,End 13 38 OLAP,County Line,2024,10040
+477,,Rt 13 - Elmira Rd,T/Ithaca,Rt 327,Rt 13A,2024,17218
+480,,Rt 13 - Elmira Rd,T/Ithaca,Start 13 34 96 OLAP,Rt 327,2024,17218
+5,,Rt 327 - Enfield Main Rd,T/Ithaca,Rt13 34 96,Gray Rd,2024,615
+457,NY13,Rt 34 - East Shore Dr,C/Ithaca,End 13 OLAP,Start 34 34B OLAP,2024,7280
+482,NY34,Rt 34 - West Danby Rd,T/Newfield,County Line Newfield,Depot Rd,2024,6421
+571,,Rt 34 - Auburn Rd,T/Lansing,Start 34B OLAP End,34B OLAP,2024,7637
+37,,Rt 34B - Peruville Rd,T/Gro-T/Dry,Benson Rd,Rt 38,2024,5243
+38,,Rt 34B - Peruville Rd,T/Lansing,End 34 OLAP,Benson Rd,2024,4753
+454,NY34,Rt 34B - Ridge Rd,T/Lansing,County Line Lansingville,Rd,2024,2752
+456,NY34B,Rt 34B - Ridge Rd,T/Lansing,Lansingville Rd,Start 34 OLAP,2024,3199
+9,,Rt 366 - Main St,V/Freeville,Freeville V/L Rt,Rt 38,2024,4991
+14,,Rt 366 - Dryden Rd,T/Dryden,Forest Home Dr,Start 13 366 OLAP,2024,7434
+43,,Rt 38 - Groton Rd,T/Dryden,Rt 366 Rt,34B,2024,2474
+126,NY366,Rt 38 - Peru Rd,T/Groton,Rt 34B Rt,Rt 222,2024,2754
+434,NY38,Rt 38 - Freeville Rd,T/Dryden,End 13 OLAP,Rt 366,2024,3035
+39,,Rt 392 - Virgil Rd,T/Dryden,Rt 13 County,Line,2024,1523
+50,,Rt 79 - Seneca St,C/Ithaca,Fulton St,Rt 89,2024,4087
+330,,Rt 79 - Mecklenburg Rd,T/Enfield,Rt 327 County,Line,2024,2782
+440,NY392,Rt 79 - E State St,C/Ithaca,Ithaca C/L,Cornell St,2024,5606
+443,NY79,Rt 79 - Slaterville Rd,T/Dryden,Brooktondale Rd,Pine Tree Rd,2024,7183
+474,,Rt 79 - Taughannock Blvd,C/Ithaca,Rt 89 96,Floral Ave,2024,15684
+478,,Rt 79 - Mecklenburg Rd,T/Enfield,Ithaca C/L,Rt 327,2024,3651
+462,,Rt 96 - Trumansburg Rd,V/TrumansburgRt,227 County,Line,2024,4944
+465,NY79,Rt 96 - Trumansburg Rd,T/Ulysses,Perry City Rd,Halseyville Rd,2024,5900
+11,NY96B,Rt 96B - Danby Rd,T/Danby,Michigan Hollow Rd,King Rd E,2024,5107
+22,,Rt 366 - Ithaca Rd,C/Ithaca,State St E,Ithaca T/L,2024,5115
+32,NY96B,Rt 96B - Danby Rd,T/Danby,County Line Michigan,Hollow Rd,2024,3737
+8613,20,Albany St,C/Ithaca,Traffic Circle,Titus Ave S,2024,2272
+6015,,Albany St S,C/Ithaca,Titus Ave N,Cascadilla St,2024,1710
+18,,Aurora St,C/Ithaca,Ithaca C/L,Cayuga St,2024,10573
+8602,,Cascadilla St,C/Ithaca,Fulton St,Cayuga St,2024,2554
+6023,20,Cayuga St N,C/Ithaca,Cascadilla St,Farm St,2024,5380
+6016,230,Cayuga St S,C/Ithaca,Spencer St W,Green St,2024,7724
+6040,,College Ave,C/Ithaca,Mitchell St,Oak Ave,2024,2166
+2028,,Cornell St,C/Ithaca,State St E,Ithaca Rd,2024,2038
+1212,,Forest Home Dr,C/Ithaca,Thurston Ave,Ithaca C/L,2024,1456
+6019,340,Giles St,C/Ithaca,Columbia St,Water St,2024,3161
+8603,740,Giles St,C/Ithaca,Water St,State St E,2024,2651
+6020,,Hancock St,C/Ithaca,Meadow St,Auburn St,2024,1584
+8513,,Hudson St,C/Ithaca,Grandview Ave,Prospect St,2024,3112
+4022,,Hudson St,C/Ithaca,Prospect St,Aurora St,2024,2176
+6021,790,Madison St,C/Ithaca,Willow Ave,Second St,2024,439
+4027,1120,Maple Ave,C/Ithaca,Dryden Rd,Ithaca T/L,2024,1650
+2042,,Mitchell St,C/Ithaca,Ithaca Rd,Ithaca T/L,2024,3403
+4030,,Plain St N,C/Ithaca,Court St,Cascadilla St,2024,1261
+6014,,Plain St S,C/Ithaca,Elmira Rd,Titus Ave N,2024,1447
+4028,1100,Plain St S,C/Ithaca,Green St,Buffalo St,2024,1904
+457,NY34,Rt 34 - East Shore Dr,C/Ithaca,End 13 OLAP,Start 34 34B OLAP,2024,7280
+22,,Rt 366 - Ithaca Rd,C/Ithaca,State St E,Ithaca T/L,2024,5115
+440,,Rt 79 - E State St,C/Ithaca,Ithaca C/L,Cornell St,2024,5606
+50,,Rt 79 - Seneca St,C/Ithaca,Fulton St,Rt 89,2024,4087
+474,NY96B,Rt 79 - Taughannock Blvd,C/Ithaca,Rt 89 96,Floral Ave,2024,15684
+2039,1540,Spencer Rd,C/Ithaca,Stone Quarry Rd,Traffic Circle,2024,3903
+6027,,Stewart Ave,C/Ithaca,State St E,South St,2024,4500
+4038,,Stewart Ave,C/Ithaca,University Ave,Williard Way,2024,1466
+36,,Taughannock Blvd,C/Ithaca,End 96 OLAP,Ithaca T/L,2024,5248
+8507,1570,Brooktondale Rd,T/Caroline,Valley Rd,Rt 79,2024,1816
+2200,CR113,Caroline Depot Rd,T/Caroline,Coddington Rd,Perkins Rd,2024,326
+7001,,Hillview Rd,T/Caroline,Rt 34 96 Michigan,Hollow Rd,2024,114
+2203,,Old 76 Rd,T/Caroline,Buffalo Rd,Grove School Rd,2024,415
+8508,,Old 76 Rd,T/Caroline,Yaple Rd,Buffalo Rd,2024,361
+8211,CR187,South Rd,T/Caroline,Old 76 Rd,County Line,2024,349
+8209,CR115,Valley Rd,T/Caroline,Burns Rd,White Church Rd,2024,795
+6002,,Valley Rd,T/Caroline,Valley Rd,(town) Old Brooktondale Rd,2024,1137
+7002,,Walding Ln,T/Caroline,Rt 34 96,End,2024,9
+2222,,White Church Rd,T/Caroline,Caroline Depot Rd,Valley Rd,2024,510
+8216,CR115,Comfort Rd,T/Danby,Miller Rd,Jersey Hill Rd,2024,521
+8303,CR123,Hornbrook Rd,T/Danby,Rt 96B Nelson,Rd,2024,196
+32,,Rt 96B - Danby Rd,T/Danby,County Line Michigan,Hollow Rd,2024,3737
+11,,Rt 96B - Danby Rd,T/Danby,Michigan Hollow Rd,King Rd E,2024,5107
+8515,,South Danby Rd,T/Danby,County Line Rt,96B,2024,433
+8215,NY96B,W Jersey Hill Rd,T/Danby,Town Line Rd,King Rd W,2024,275
+8007,CR101,Cobb Rd,T/Dryden,Rt 34B Groton,T/L,2024,155
+8505,,Ellis Hollow Rd,T/Dryden,Ithaca T/L Thomas,Rd,2024,2320
+8802,,Ellis Hollow Rd,T/Dryden,Thomas Rd,Ellis Hollow Creek Rd,2024,1321
+8201,,Fall Creek Rd,T/Dryden,Cady Ln,North Rd,2024,4870
+1209,CR110,Forest Home Dr,T/Dryden,Rt 366 Ithaca,T/L,2024,738
+433,NY13,Rt 13 - Cortland Rd,T/Dryden,End 13 38 OLAP,County Line,2024,10040
+8,,Rt 13 - Dryden Rd,T/Dryden,Start 13 366 OLAP End,13 366 OLAP,2024,16272
+14,,Rt 366 - Dryden Rd,T/Dryden,Forest Home Dr,Start 13 366 OLAP,2024,7434
+434,,Rt 38 - Freeville Rd,T/Dryden,End 13 OLAP,Rt 366,2024,3035
+43,NY13,Rt 38 - Groton Rd,T/Dryden,Rt 366 Rt,34B,2024,2474
+39,NY392,Rt 392 - Virgil Rd,T/Dryden,Rt 13 County,Line,2024,1523
+443,,Rt 79 - Slaterville Rd,T/Dryden,Brooktondale Rd,Pine Tree Rd,2024,7183
+8118,,Sheldon Rd,T/Dryden,Neimi Rd,Rt 34B,2024,422
+8001,,West Dryden Rd,T/Dryden,Asbury Rd,Sheldon Rd,2024,2128
+8008,NY79,West Dryden Rd,T/Dryden,Lansing T/L Asbury,Rd,2024,1451
+8828,CR137,Bostwick Rd,T/Enfield,Applegate Rd,S Enfield T/L,2024,1128
+478,,Rt 79 - Mecklenburg Rd,T/Enfield,Ithaca C/L Rt,Rt 327,2024,3651
+330,,Rt 79 - Mecklenburg Rd,T/Enfield,Rt 327 County,Line,2024,2782
+6122,,Trumbulls Cors Rd,T/Enfield,Connecticut Hill Rd,Rt 327,2024,435
+8501,NY79,Peruville Rd,T/Gro-T/Dry,Rt 38 Fall,Creek Rd,2024,3152
+37,NY34B,Rt 34B - Peruville Rd,T/Gro-T/Dry,Benson Rd,Rt 38,2024,5243
+6123,,Champlin Rd,T/Groton,Old Stage Rd,Groton City Rd,2024,480
+2210,,Cobb St,T/Groton,Pleasant Valley Rd,Sovocol Hil Rd,2024,594
+8102,,LaFayette Rd,T/Groton,Cemetery Ln,Rt 222,2024,320
+8522,CR103A,Old Stage Rd,T/Groton,Rt 38 Salt,Rd,2024,599
+126,NY38,Rt 38 - Peru Rd,T/Groton,Rt 34B Rt,Rt 222,2024,2754
+6069,,Walpole Rd,T/Groton,Groton V/L Rt,Rt 38,2024,905
+8107,,West Groton Rd,T/Groton,Lansing T/L Spring St,Ext,2024,350
+8704,,Birchwood Dr,T/Ithaca,Salem Dr,End,2024,286
+1003,340,Burns Rd,T/Ithaca,Rt 79,Coddington Rd,2024,2076
+8510,CR119,Coddington Rd,T/Ithaca,Danby T/L,King Rd,2024,1226
+1004,,Ellis Hollow Rd,T/Ithaca,Pine Tree Rd,Dryden T/L,2024,3796
+1202,,Forest Home Dr,T/Ithaca,Caldwell Rd,Dryden T/L,2024,810
+8822,,Hanshaw Rd,T/Ithaca,Cayuga Hgts Rd,Warren Rd,2024,3883
+1204,CR110,Judd Falls Rd,T/Ithaca,Dryden Rd,Tower Rd,2024,3811
+6042,460,Judd Falls Rd,T/Ithaca,Tower Rd,Forest Home Dr,2024,6164
+8511,,King Rd E,T/Ithaca,Rt 96B,Coddington Rd,2024,2059
+2035,,Maple Ave,T/Ithaca,Pine Tree Rd,Ithaca C/L,2024,1464
+8002,,Mitchell St,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,3332
+477,CR179,Rt 13 - Elmira Rd,T/Ithaca,Rt 327,Rt 13A,2024,17218
+480,NY13,Rt 13 - Elmira Rd,T/Ithaca,Start 13 34 96 OLAP,Rt 327,2024,17218
+5,,Rt 327 - Enfield Main Rd,T/Ithaca,Rt13 34 96,Gray Rd,2024,615
+12,,Rt 366 - Dryden Rd,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,6068
+8512,,Stone Quarry Rd,T/Ithaca,King Rd,Ithaca C/L,2024,3741
+8837,NY327,Troy Rd,T/Ithaca,King Rd E,Coddington Rd,2024,534
+8310,CR121,Warren Rd,T/Ithaca,Forest Home Dr,Hanshaw Rd,2024,4137
+8825,,Warren Rd,T/Ithaca,Hanshaw Rd,Lansing V/L,2024,4503
+8220,,Game Farm Rd,T/Ith-T/Dry,Stevenson Rd,Rt 366,2024,2013
+8412,,Sheffield Rd,T/Ith-T/Enf,Bostwick Rd,Hayts Rd,2024,652
+8812,CR121,Sheffield Rd,T/Ith-T/Enf,Hayts Rd,Iradell Rd,2024,433
+8418,20,Armstrong Rd,T/Lansing,Asbury Rd,Rt 34B,2024,513
+2016,,Benson Rd,T/Lansing,Rt 34B Asbury,Rd,2024,283
+8114,,Farrell Rd,T/Lansing,Warren Rd,Dryden T/L,2024,1452
+7019,,Milliken Rd,T/Lansing,Cayuga Dr,Milliken Station Ext,2024,265
+8850,90,N Lansing School Rd,T/Lansing,Van Ostrand Rd,Groton T/L,2024,452
+6134,CR122,N Triphammer Rd,T/Lansing,Waterwagon Rd,Rt 34B,2024,7383
+8851,,Portland Point,T/Lansing,Cement Plant Rt,34B,2024,550
+571,,Rt 34 - Auburn Rd,T/Lansing,Start 34B OLAP End,34B OLAP,2024,7637
+38,,Rt 34B - Peruville Rd,T/Lansing,End 34 OLAP,Benson Rd,2024,4753
+454,CR150,Rt 34B - Ridge Rd,T/Lansing,County Line Lansingville,Rd,2024,2752
+456,NY34B,Rt 34B - Ridge Rd,T/Lansing,Lansingville Rd,Start 34 OLAP,2024,3199
+8836,,Adams Rd,T/Newfield,Shaffer Rd,Newfield Depot Rd,2024,681
+6036,,Main St - Newfield,T/Newfield,Shaffer Rd,Rt 13,2024,1093
+8316,,Newfield Depot Rd,T/Newfield,Adams Rd,Valley Manor Rd,2024,1271
+482,CR131A,Rt 34 - West Danby Rd,T/Newfield,County Line Newfield,Depot Rd,2024,6421
+8318,CR133A,Sebring Rd,T/Newfield,Rt 13 Test,Rd,2024,309
+8320,,Shaffer Rd,T/Newfield,County Line Taggart,Rd,2024,403
+8005,,Trumbulls Cors Rd,T/Newfield,Main St,Rt 13,2024,1364
+8319,,Van Kirk Rd,T/Newfield,County Line Chaffee,Creek Rd,2024,209
+2205,CR132,Kraft Rd,T/Ulysses,Dubois Rd,Rt 89,2024,160
+2208,CR141,Krums Cors Rd,T/Ulysses,Rt 96 Dubois,Rd,2024,131
+8829,,Perry City Rd,T/Ulysses,Rt 96 Rt,Rt 89,2024,372
+465,,Rt 96 - Trumansburg Rd,T/Ulysses,Perry City Rd,Halseyville Rd,2024,5900
+1206,,Hanshaw Rd,V/Cayuga,Hgts Cayuga Hgts Rd,N Triphammer Rd,2024,1062
+8402,CR142,Hanshaw Rd,V/Cayuga,Hgts N Triphammer Rd,Ithaca T/L,2024,8087
+2220,130,Upland Rd E,V/Cayuga,Hgts Highland Rd,Hanshaw Rd,2024,375
+6096,,Mill St,V/Dryden,Ferguson Rd,West Main St,2024,194
+10,,Rt 13 - North St,V/Dryden,Start 13 38 OLAP End,13 38 OLAP,2024,11404
+9,,Rt 366 - Main St,V/Freeville,Freeville V/L Rt,Rt 38,2024,4991
+5005,250,Sykes St,V/Groton,South St,W Spring St,2024,502
+8309,120,Cayuga Hgts Rd,V/Lansing,Cedar Ln,Oakcrest Rd,2024,800
+35,,Rt 13,V/Lansing,Warren Rd,Hanshaw Rd,2024,15035
+462,NY13,Rt 96 - Trumansburg Rd,V/TrumansburgRt,227 County,Line,2024,4944
+5,NY327,Rt 327 - Enfield Main Rd,T/Ithaca,Rt 13 34 96,Gray Rd,2024,615
+8,,Rt 13 - Dryden Rd,T/Dryden,Start 13 366 OLAP End,13 366 OLAP,2024,16272
+9,,Rt 366 - Main St,V/Freeville,Freeville V/L,Rt 38,2024,4991
+10,,Rt 13 - North St,V/Dryden,Start 13 38 OLAP End,13 38 OLAP,2024,11404
+11,NY13,Rt 96B - Danby Rd,T/Danby,Michigan Hollow Rd,King Rd E,2024,5107
+12,NY13,Rt 366 - Dryden Rd,T/Dryden,Ithaca C/L Pine,Tree Rd,2024,6068
+14,,Rt 366 - Dryden Rd,T/Dryden,Forest Home Dr,Start 13 366 OLAP,2024,7434
+18,,Aurora St,C/Ithaca,Ithaca C/L,Cayuga St,2024,10573
+22,,Rt 366 - Ithaca Rd,C/Ithaca,State St E,Ithaca C/L,2024,5115
+32,NY366,Rt 96B - Danby Rd,T/Danby,County Line Michigan,Hollow Rd,2024,3737
+35,NY13,Rt 13,T/Lansing,Warren Rd,Hanshaw Rd,2024,15035
+36,,Taughannock Blvd,C/Ithaca,End 96 OLAP,Ithaca C/L,2024,5248
+37,,Rt 34B - Peruville Rd,T/Gro-T/Dry,Benson Rd,Rt 38,2024,5243
+38,,Rt 34B - Peruville Rd,T/Lansing,End 34 OLAP,Benson Rd,2024,4753
+39,1620,Rt 392 - Virgil Rd,T/Dryden,Rt 13 County,Line,2024,1523
+43,NY38,Rt 38 - Groton Rd,V/Freeville,Rt 366 Rt,34B,2024,2474
+50,,Rt 79 - Seneca St,C/Ithaca,Fulton St,Rt 89,2024,4087
+126,,Rt 38 - Peru Rd,T/Groton,Rt 34B, Rt 222,2024,2754
+330,,Rt 79 - Mecklenburg Rd,T/Enfield,Rt 327 County,Line,2024,2782
+433,NY79,Rt 13 - Cortland Rd,T/Dryden,End 13 38 OLAP,County Line,2024,10040
+434,NY38,Rt 38 - Freeville Rd,T/Dryden,End 13 OLAP,Rt 366,2024,3035
+440,,Rt 79 - E State St,C/Ithaca,Ithaca C/L,Cornell St,2024,5606
+443,,Rt 79 - Slaterville Rd,T/Dryden,Brooktondale Rd,Pine Tree Rd,2024,7183
+454,,Rt 34B - Ridge Rd,T/Lansing,Lansingville Rd,County Line,2024,2752
+456,NY79,Rt 34B - Ridge Rd,T/Lansing,Lansingville Rd,Start 34 OLAP,2024,3199
+457,NY34,Rt 34 - East Shore Dr,C/Ithaca,End 13 OLAP,Start 34 34B OLAP,2024,7280
+462,,Rt 96 - Trumansburg Rd,T/Ulysses,Rt 227 County,Line,2024,4944
+465,,Rt 96 - Trumansburg Rd,T/Ulysses,Perry City Rd,Halseyville Rd,2024,5900
+474,,Rt 79 - Taughannock Blvd,C/Ithaca,Rt 89 96,Floral Ave,2024,15684
+477,NY96,Rt 13 - Elmira Rd,T/Ithaca,Rt 327,Rt 13A,2024,17218
+478,NY79,Rt 79 - Mecklenburg Rd,T/Enfield,Ithaca C/L,Rt 327,2024,3651
+480,,Rt 13 - Elmira Rd,T/Ithaca,Start 13 34 96 OLAP,Rt 327,2024,17218
+482,,Rt 34 - West Danby Rd,T/Newfield,County Line Newfield,Depot Rd,2024,6421
+571,,Rt 34 - Auburn Rd,T/Lansing,Start 34B OLAP End,34B OLAP,2024,7637
+1003,NY13,Burns Rd,T/Ithaca,Rt 79,Coddington Rd,2024,2076
+1004,CR110,Ellis Hollow Rd,T/Ithaca,Pine Tree Rd,Dryden T/L,2024,3796
+1202,,Forest Home Dr,T/Ithaca,Caldwell Rd,Dryden T/L,2024,810
+1204,,Judd Falls Rd,T/Ithaca,Dryden Rd,Tower Rd,2024,3811
+1206,,Hanshaw Rd,V/Cayuga,Hgts Cayuga Hgts Rd,N Triphammer Rd,2024,1062
+1209,690,Forest Home Dr,T/Dryden,Rt 366 Ithaca,T/L,2024,738
+1212,280,Forest Home Dr,C/Ithaca,Thurston Ave,Ithaca C/L,2024,1456
+2016,,Benson Rd,T/Lansing,Rt 34B Asbury,Rd,2024,283
+2028,,Cornell St,C/Ithaca,State St E,Dryden Rd,2024,2038
+2035,,Maple Ave,T/Ithaca,Judd Falls Rd,Ithaca C/L,2024,1464
+2039,90,Spencer Rd,C/Ithaca,Stone Quarry Rd,Traffic Circle,2024,3903
+2042,1100,Mitchell St,T/Ithaca,Ithaca Rd,Ithaca C/L,2024,3403
+2200,,Caroline Depot Rd,T/Caroline,Coddington Rd,Perkins Rd,2024,326
+2203,,Old 76 Rd,T/Caroline,Buffalo Rd,Grove School Rd,2024,415
+2205,,Kraft Rd,T/Ulysses,Dubois Rd,Rt 89,2024,160
+2208,CR113,Krums Cors Rd,T/Ulysses,Rt 96 Dubois,Rd,2024,131
+2210,CR101,Cobb St,T/Groton,Pleasant Valley Rd,Sovocol Hil Rd,2024,594
+2220,,Upland Rd E,V/Cayuga,Hgts Highland Rd,Hanshaw Rd,2024,375
+2222,,White Church Rd,T/Caroline,Caroline Depot Rd,Valley Rd,2024,510
+4022,,Hudson St,C/Ithaca,Prospect St,Aurora St,2024,2176
+4027,130,Maple Ave,C/Ithaca,Dryden Rd,Ithaca C/L,2024,1650
+4028,1350,Plain St S,C/Ithaca,Green St,Buffalo St,2024,1904
+4030,,Plain St N,C/Ithaca,Court St,Cascadilla St,2024,1261
+4038,,Stewart Ave,C/Ithaca,University Ave,Williard Way,2024,1466
+5005,,Sykes St,V/Groton,South St,W Spring St,2024,502
+6002,1350,Valley Rd,T/Caroline,Valley Rd,(town) CR 113A,2024,1137
+6014,1350,Plain St S,C/Ithaca,Elmira Rd,Titus Ave N,2024,1447
+6015,,Albany St S,C/Ithaca,Titus Ave N,Cascadilla St,2024,1710
+6016,,Cayuga St S,C/Ithaca,Spencer St W,Green St,2024,7724
+6019,,Giles St,C/Ithaca,Columbia St,Water St,2024,3161
+6020,20,Hancock St,C/Ithaca,Meadow St,Auburn St,2024,1584
+6021,1110,Madison St,C/Ithaca,Willow Ave,Second St,2024,439
+6023,,Cayuga St N,C/Ithaca,Cascadilla St,Farm St,2024,5380
+6027,,Stewart Ave,C/Ithaca,State St E,South St,2024,4500
+6036,,Main St - Newfield,T/Newfield,Shaffer Rd,Rt 13,2024,1093
+6040,230,College Ave,C/Ithaca,Mitchell St,Oak Ave,2024,2166
+6042,460,Judd Falls Rd,T/Ithaca,Tower Rd,Forest Home Dr,2024,6164
+6069,,Walpole St,T/Groton,Groton V/L, Rt 38,2024,905
+6122,,Trumbulls Cors Rd,T/Enfield,Connecticut Hill Rd,Rt 327,2024,435
+6123,,Champlin Rd,T/Groton,Old Stage Rd,Groton City Rd,2024,480
+6134,340,N Triphammer Rd,T/Lansing,Waterwagon Rd,Rt 34B,2024,7383
+7001,CR187,Hillview Rd,T/Caroline,Rt 34 96 Michigan,Hollow Rd,2024,114
+7002,,Walding Ln,T/Caroline,Rt 34 96,End,2024,9
+7019,,Milliken Rd,T/Lansing,Cayuga Dr,Milliken Station Ext,2024,265
+8001,,West Dryden Rd,T/Dryden,Asbury Rd,Sheldon Rd,2024,2128
+8002,530,Mitchell St,T/Ithaca,Ithaca C/L,Pine Tree Rd,2024,3332
+8005,CR133,Trumbulls Cors Rd,T/Newfield,Main St,Rt 13,2024,1364
+8007,,Cobb Rd,T/Groton,Rt 34B Groton,T/L,2024,155
+8008,,West Dryden Rd,T/Dryden,Lansing T/L Asbury,Rd,2024,1451
+8102,,LaFayette Rd,T/Groton,Cemetery Ln,Rt 222,2024,320
+8107,CR101,West Groton Rd,T/Groton,Lansing T/L Spring St,Ext,2024,350
+8114,CR108,Farrell Rd,T/Lansing,Warren Rd,Dryden T/L,2024,1452
+8118,,Sheldon Rd,T/Dryden,Neimi Rd,Rt 34B,2024,422
+8201,,Fall Creek Rd,T/Dryden,Cady Ln,North Rd,2024,4870
+8209,,Valley Rd,T/Caroline,Burns Rd,White Church Rd,2024,795
+8211,CR182,South Rd,T/Caroline,Old 76 Rd,County Line,2024,349
+8215,535,W Jersey Hill Rd,T/Danby,Town Line Rd,King Rd W,2024,275
+8216,,Comfort Rd,T/Danby,Miller Rd,Jersey Hill Rd,2024,521
+8220,,Game Farm Rd,T/Ith-T/Dry,Stevenson Rd,Rt 366,2024,2013
+8303,,Hornbrook Rd,T/Danby,Rt 96B Nelson,Rd,2024,196
+8309,CR128,Cayuga Hgts Rd,V/Lansing,Cedar Ln,Oakcrest Rd,2024,800
+8310,CR121,Warren Rd,T/Ithaca,Forest Home Dr,Hanshaw Rd,2024,4137
+8316,,Newfield Depot Rd,T/Newfield,Adams Rd,Valley Manor Rd,2024,1271
+8318,,Sebring Rd,T/Newfield,Rt 13 Test,Rd,2024,309
+8319,,Van Kirk Rd,T/Newfield,County Line Chaffee,Creek Rd,2024,209
+8320,CR130,Van Kirk Rd,T/Newfield,County Line Chaffee,Creek Rd,2024,209
+8402,160,Hanshaw Rd,V/Cayuga,Hgts N Triphammer Rd,Cayuga Hgts V/L,2024,8087
+8412,,Sheffield Rd,T/Ith-T/Enf,Bostwick Rd,Hayts Rd,2024,652
+8415,,Main St - Newfield,T/Newfield,Shaffer Rd,Rt 13,2024,1353
+8418,,Armstrong Rd,T/Lansing,Asbury Rd,Rt 34B,2024,513
+8501,CR172,Peruville Rd,T/Gro-T/Dry,Rt 38 Fall,Creek Rd,2024,3152
+8505,CR110,Ellis Hollow Rd,T/Dryden,Ithaca T/L Thomas,Rd,2024,2320
+8507,,Brooktondale Rd,T/Caroline,Valley Rd,Rt 79,2024,1816
+8508,,Old 76 Rd,T/Caroline,Yaple Rd,Buffalo Rd,2024,361
+8510,,Coddington Rd,T/Ithaca,Danby T/L,King Rd,2024,1226
+8511,CR115,King Rd E,T/Ithaca,Rt 96B,Coddington Rd,2024,2059
+8512,960,Stone Quarry Rd,T/Ithaca,King Rd,Ithaca C/L,2024,3741
+8513,,Hudson St,C/Ithaca,Grandview Ave,Prospect St,2024,3112
+8515,,South Danby Rd,T/Danby,County Line Rt,96B,2024,433
+8522,,Old Stage Rd,T/Groton,Rt 38 Salt,Rd,2024,599
+8602,930,Cascadilla St,C/Ithaca,Fulton St,Cayuga St,2024,2554
+8603,740,Giles St,C/Ithaca,Water St,State St E,2024,2651
+8613,,Albany St,C/Ithaca,Traffic Circle,Titus Ave S,2024,2272
+8704,,Birchwood Dr,T/Ithaca,Salem Dr,End,2024,286
+8802,,Ellis Hollow Rd,T/Dryden,Thomas Rd,Ellis Hollow Creek Rd,2024,1321
+8812,20,Sheffield Rd,T/Ith-T/Enf,Hayts Rd,Iradell Rd,2024,433
+8822,CR109,Hanshaw Rd,T/Ithaca,Cayuga Hgts Rd,Warren Rd,2024,3883
+8825,,Warren Rd,T/Ithaca,Hanshaw Rd,Lansing V/L,2024,4503
+8828,,Bostwick Rd,T/Enfield,Applegate Rd,S Enfield T/L,2024,1128
+8829,,Perry City Rd,T/Ulysses,Rt 96 Rt,Rt 89,2024,372
+8837,CR121,Troy Rd,T/Ithaca,King Rd E,Coddington Rd,2024,534
+8850,CR100,N Lansing School Rd,T/Lansing,Van Ostrand Rd,Groton T/L,2024,452
+8851,CR150,Portland Point,T/Lansing,Cement Plant Rt,34B,2024,550

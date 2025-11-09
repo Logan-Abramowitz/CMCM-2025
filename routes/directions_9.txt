@@ -1,0 +1,66 @@
+Route 10 Directions:
+
+Start on S Fulton St
+Make a U-turn on S Fulton St
+Turn right onto S Fulton St
+Make a U-turn on E Green St
+Turn right onto W Green St
+Make a U-turn on S Fulton St
+Turn right onto S Fulton St
+Make a U-turn on S Meadow St
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn right onto S Geneva St
+Make a U-turn on S Titus Ave
+Turn left onto South St
+Turn left onto S Meadow St
+Turn left onto Wood St
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto Wood St
+Make a U-turn on S Meadow St
+Turn right onto S Meadow St
+Turn left onto S Titus Ave
+Turn right onto N Albany St
+Make a U-turn on W Seneca St
+Turn right onto S Albany St
+Turn left onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn left onto N Titus Ave
+Make a U-turn on W Seneca St
+Turn left onto W Seneca St
+Turn right onto S Geneva St
+Turn left onto Center St
+Turn right onto N Albany St
+Make a U-turn on W Seneca St
+Turn right onto S Albany St
+Turn right onto Center St
+Turn left onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto S Plain St
+Make a U-turn on Elmira Rd
+Turn right onto Elmira Rd
+Make a U-turn on N Plain St
+Turn left onto Cleveland Ave
+Make a U-turn on S Meadow St
+Turn right onto S Meadow St
+Turn left onto Cleveland Ave
+Make a U-turn on N Plain St
+Turn left onto Hyers St
+Turn right onto N Albany St
+Make a U-turn on W Seneca St
+Turn right onto N Albany St
+Make a U-turn on W Seneca St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Turn right onto Park St
+Make a U-turn on N Plain St
+Turn right onto S Plain St
+Make a U-turn on Elmira Rd
+Arrive at destination

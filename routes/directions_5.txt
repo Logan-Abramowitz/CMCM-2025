@@ -1,0 +1,127 @@
+Route 6 Directions:
+
+Start on Parker St
+Turn right onto Parker St
+Turn right onto E Buffalo St
+Turn right onto Eddy St
+Make a U-turn on W Seneca St
+Turn left onto E Seneca St
+Turn left onto Eddy St
+Turn right onto Williams St
+Make a U-turn on Stewart Ave
+Turn right onto Stewart Ave
+Turn right onto Williams St
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Turn right onto Parker St
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Make a U-turn on E State St / M.L.K. Jr St
+Turn right onto E State St / M.L.K. Jr St
+Make a U-turn on W Court St
+Turn right onto Terrace Pl
+Turn right onto N Tioga St
+Turn left onto E Yates St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Turn right onto Linn St
+Turn left onto E Court St
+Make a U-turn on N Tioga St
+Turn left onto N Tioga St
+Make a U-turn on Cascadilla St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn left onto Cascadilla Ave
+Make a U-turn on N Tioga St
+Turn right onto Cascadilla Ave
+Make a U-turn on N Cayuga St
+Turn right onto N Cayuga St
+Turn right onto Cascadilla Ave
+Make a U-turn on N Tioga St
+Turn left onto Farm St
+Make a U-turn on N Cayuga St
+Turn left onto Farm St
+Make a U-turn on E Yates St
+Turn right onto E Yates St
+Make a U-turn on N Tioga St
+Turn left onto E Marshall St
+Make a U-turn on Linn St
+Turn left onto Utica St
+Turn left onto Farm St
+Make a U-turn on Linn St
+Turn right onto Linn St
+Make a U-turn on Utica St
+Turn left onto Utica St
+Turn left onto Farm St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Turn left onto Linn St
+Turn right onto University Ave
+Turn right onto Linn St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Turn right onto Linn St
+Turn left onto Sears St
+Turn left onto Lake Ave
+Turn right onto Cascadilla St
+Turn right onto Sears St
+Make a U-turn on W Court St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on W Court St
+Turn right onto Terrace Pl
+Make a U-turn on W Buffalo St
+Turn left onto E Buffalo St
+Turn left onto Terrace Pl
+Make a U-turn on W Court St
+Turn right onto Terrace Pl
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Make a U-turn on Schuyler Pl
+Turn right onto Schuyler Pl
+Turn left onto E Buffalo St
+Turn right onto Osmun Pl
+Turn right onto Osmun Pl
+Make a U-turn on Stewart Ave
+Turn left onto Stewart Ave
+Turn right onto Osmun Pl
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Make a U-turn on N Quarry St
+Turn left onto N Quarry St
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Turn right onto Eddy St
+Make a U-turn on W Seneca St
+Turn left onto E Seneca St
+Make a U-turn on Dryden Rd
+Turn left onto Dryden Rd
+Turn right onto Eddy St
+Make a U-turn on W Seneca St
+Turn left onto E Seneca St
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on W Court St
+Turn right onto Terrace Pl
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Turn right onto Eddy St
+Make a U-turn on W Seneca St
+Turn left onto E Seneca St
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn left onto Stewart Ave
+Turn right onto Cornell Ave
+Turn right onto Cornell Ave
+Make a U-turn on Stewart Ave
+Arrive at destination

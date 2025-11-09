@@ -1,0 +1,21 @@
+Route 2 Directions:
+
+Start on Lake St
+Make a U-turn on Lake St
+Turn right onto Lake St
+Turn right onto Kline Rd Sb Lane
+Make a U-turn on Kline Rd
+Turn right onto Kline Rd Nb Lane
+Make a U-turn on Lake St
+Turn left onto Lake St
+Turn right onto Kline Rd Nb Lane
+Turn left onto Kline Rd Sb Lane
+Turn right onto Lake St
+Make a U-turn on W Falls St
+Turn left onto E Falls St
+Make a U-turn on Lake St
+Turn right onto Lake St
+Make a U-turn on Willow Ave
+Turn right onto E Lincoln St
+Make a U-turn on Lake St
+Arrive at destination
