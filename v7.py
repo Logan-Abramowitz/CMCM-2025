@@ -725,6 +725,9 @@ if __name__ == "__main__":
         n_vehicles=8
     )
 
-    results = evaluate_clusters(G, roads, k_range=range(3, 15))
+    results, time = evaluate_clusters(G, roads, k_range=range(3, 15))
     plot_optimal_vehicle_curve(results)
+    print("Maximum Times to Clear all of Ithaca with k Vehicles:")
+    for i,j in zip(time,range(3,15)):
+        print(f"k:{j} | Time:{i}")
 
