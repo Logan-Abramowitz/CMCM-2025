@@ -9,6 +9,7 @@ Integrates with the road network and clustering logic from v7.py.
 
 import os
 import numpy as np
+import json
 import matplotlib.pyplot as plt
 import networkx as nx
 from shapely.geometry import LineString
@@ -75,34 +76,42 @@ def evaluate_clusters(G, roads, k_range=range(2, 20)):
             for i in range(len(pts) - 1):
                 road_priorities[(pts[i], pts[i + 1])] = w
 
-    results = []
 
+    results = []
+    times = []
     for k in k_range:
         print(f"Evaluating {k} vehicles...")
         kmeans = KMeans(n_clusters=k, n_init=10, random_state=42)
         labels = kmeans.fit_predict(coords)
-
+        
         zone_scores = [0] * k
         node_list = list(G.nodes)
-
+        time = [0] * k
         for (u, v, data) in G.edges(data=True):
             try:
                 i = labels[node_list.index(u)]
             except ValueError:
                 continue
+            
 
+            name = data.get("name",1.0)
+            width = data.get("width",1.0)
             length = data.get("length", 1.0)
+            time = length /(15*5280)+ np.max(0,width//10 - 1)*length/(15*5280)
             w = road_priorities.get((u, v), 1.0)
             zone_scores[i] += length * w
+            time[i] += time
 
+        times.append(max(time))
         results.append({
             "k": k,
             "max_cost": max(zone_scores),
             "mean_cost": np.mean(zone_scores),
             "balance_ratio": np.std(zone_scores) / (np.mean(zone_scores) + 1e-9)
+        
         })
 
-    return results
+    return results, times
 
 
 def plot_optimal_vehicle_curve(results, output_folder="routes"):
@@ -133,7 +142,7 @@ def plot_optimal_vehicle_curve(results, output_folder="routes"):
     out_path = os.path.join(output_folder, "optimal_vehicle_curve.png")
     plt.savefig(out_path, dpi=300)
     plt.close(fig)
-    print(f"✅ Saved optimal vehicle analysis figure to {out_path}")
+    print(f"Saved optimal vehicle analysis figure to {out_path}")
 
 
 if __name__ == "__main__":
@@ -146,19 +155,22 @@ if __name__ == "__main__":
 
     traffic_df = None
     if traffic_csv_path and os.path.exists(traffic_csv_path):
-        print("📊 Loading traffic (AADT) data...")
+        print("Loading traffic (AADT) data...")
         traffic_df = load_traffic_csv(traffic_csv_path)
-        print(f"✅ Loaded {len(traffic_df)} traffic rows")
+        print(f"Loaded {len(traffic_df)} traffic rows")
 
     slope_lookup = None
     if slope_csv_path and os.path.exists(slope_csv_path):
-        print("⛰️  Loading slope priority data...")
+        print("Loading slope priority data...")
         slope_lookup = load_slope_csv(slope_csv_path)
-        print(f"✅ Loaded {len(slope_lookup)} slope entries")
+        print(f"Loaded {len(slope_lookup)} slope entries")
 
     shapefile = "Roads/Roads.shp"
     roads = gpd.read_file(shapefile)
     G = build_graph(shapefile,traffic_df=traffic_df, slope_lookup=slope_lookup)
 
-    results = evaluate_clusters(G, roads, k_range=range(3, 15))
+    results, time = evaluate_clusters(G, roads, k_range=range(3, 15))
     plot_optimal_vehicle_curve(results)
+    print("Maximum Times to Clear all of Ithaca with k Vehicles:")
+    for i,j in zip(time,range(3,15)):
+        print(f"k:{j} | Time:{i}")

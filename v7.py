@@ -135,6 +135,14 @@ def build_graph(roads, traffic_df=None, slope_lookup=None):
         else:
             continue
 
+        if row.get("WIDTH_C_C") is not None:
+            width = row.get("WIDTH_C_C")
+        elif row.get("WIDTH_APPRO") is not None:
+            width = row.get("WIDTH_APPR")
+        else:
+            width = 1.0
+
+
         for line in lines:
             coords = list(line.coords)
             for i in range(len(coords) - 1):
@@ -152,6 +160,7 @@ def build_graph(roads, traffic_df=None, slope_lookup=None):
                     aadt_weight=aadt_weight,
                     slope_cat=slope_cat,
                     oneway=is_oneway,
+                    width = width
                 )
 
                 if not is_oneway:
@@ -163,6 +172,7 @@ def build_graph(roads, traffic_df=None, slope_lookup=None):
                         aadt_weight=aadt_weight,
                         slope_cat=slope_cat,
                         oneway=False,
+                        width = width
                     )
 
     return G
