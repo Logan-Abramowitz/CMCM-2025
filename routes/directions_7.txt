@@ -1,41 +1,2158 @@
 Route 8 Directions:
 
-Start on Sunrise Rd
-Turn left onto Hopper Pl
-Make a U-turn on Hector St
-Turn right onto Sunrise Rd
-Turn right onto Sunrise Rd
-Make a U-turn on Taylor Pl
-Turn right onto Taylor Pl
-Turn left onto Hook Pl
-Turn left onto Haller Blvd
-Turn left onto Elm St
-Turn left onto Floral Ave
-Turn left onto Hector St
-Make a U-turn on Chestnut St
-Turn right onto Chestnut St
-Turn right onto Sunrise Rd
-Turn right onto Hector St
-Make a U-turn on Floral Ave
-Turn left onto Floral Ave
-Turn right onto Elm St
-Turn right onto Haller Blvd
-Turn right onto Taylor Pl
-Turn right onto Sunrise Rd
-Turn right onto Sunrise Rd
-Make a U-turn on W State St/ M. L. K. Jr St Bridge
-Turn left onto W State St/ M. L. K. Jr St
-Turn left onto Taughannock Blvd
-Make a U-turn on W Seneca St
-Turn left onto W Seneca St
+Start on Center St
+Turn left onto Center St
+Make a U-turn on S Albany St
+Turn left onto S Albany St
+Turn right onto Center St
+Turn left onto N Titus Ave
+Make a U-turn on S Cayuga St
+Turn left onto S Cayuga St
+Turn right onto Center St
+Turn right onto S Plain St
+Make a U-turn on Elmira Rd
+Turn right onto Elmira Rd
+Make a U-turn on S Plain St
+Turn left onto Hyers St
+Turn right onto S Albany St
+Make a U-turn on S Titus Ave
+Turn left onto South St
 Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto E Green St
+Turn right onto S Cayuga St
+Make a U-turn on Park St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn left onto Wood St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hillview Pl
+Make a U-turn on South Hill Ter
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on Grandview Ct
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Make a U-turn on Park St
+Turn right onto Park St
+Turn left onto S Plain St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto W Clinton St
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hillview Pl
+Make a U-turn on Pearsall Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto S Corn St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn right onto S Meadow St
+Turn right onto W Clinton St
+Turn left onto S Albany St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Turner Pl
+Turn right onto Pleasant St
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Pleasant St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn left onto Prospect St
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn left onto Prospect St
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on Pearsall Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Crescent Pl
+Make a U-turn on Hudson St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on Grandview Ct
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Make a U-turn on S Fulton St
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn right onto Wood St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Crescent Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Make a U-turn on Pearsall Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto N Titus Ave
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn left onto S Albany St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto S Corn St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on Fayette St
+Turn left onto Fayette St
+Make a U-turn on W Green St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Pearsall Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn left onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn left onto Grandview Ct
+Turn left onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Turn right onto S Corn St
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Make a U-turn on Hillview Pl
+Turn right onto Hillview Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on N Plain St
+Turn left onto N Plain St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Turn right onto W Clinton St
+Turn right onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto W Clinton St Wb Lane
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn right onto S Albany St
+Turn left onto N Titus Ave
+Turn left onto S Geneva St
+Turn right onto S Albany St
+Turn left onto W Clinton St
+Turn right onto W Clinton St Eb Lane
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn left onto Hillview Pl
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Make a U-turn on Grandview Ave
+Turn left onto Grandview Ave
+Make a U-turn on Columbia St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn right onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn right onto W Buffalo St
+Turn left onto N Plain St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Make a U-turn on Prospect St
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Turn left onto E Spencer St
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn left onto N Geneva St
+Make a U-turn on W Buffalo St
+Turn right onto W Buffalo St
+Turn left onto S Plain St
+Turn right onto W Clinton St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on Grandview Ct
+Turn left onto Grandview Ct
+Turn left onto Grandview Ave
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Turn right onto S Geneva St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn left onto S Albany St
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn left onto S Albany St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on S Fulton St
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn right onto S Meadow St
+Turn right onto W Clinton St
+Turn right onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto E Spencer St
+Make a U-turn on Prospect St
+Turn left onto Prospect St
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn right onto S Plain St
+Turn left onto Hyers St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on Fayette St
+Turn left onto Fayette St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Hudson St
+Turn right onto Pennsylvania Ave
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Turn right onto S Geneva St
+Make a U-turn on Spencer Rd
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Turner Pl
+Turn left onto South Hill Ter
+Turn right onto Turner Pl
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn left onto Hudson St
+Turn right onto Pennsylvania Ave
+Make a U-turn on Hudson St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn left onto Fayette St
+Make a U-turn on W Green St
+Turn right onto E Buffalo St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Plain St
+Turn left onto Cleveland Ave
+Turn left onto S Corn St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto S Corn St
+Turn right onto E Clinton St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Make a U-turn on Grandview Ave
+Turn left onto Grandview Ave
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Turn left onto S Geneva St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn left onto Hillview Pl
+Turn left onto Turner Pl
+Turn right onto E Clinton St
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto S Corn St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto S Geneva St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on S Titus Ave
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn left onto South Hill Ter
+Turn right onto Turner Pl
+Make a U-turn on Prospect St
+Turn left onto Prospect St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Fulton St
 Turn left onto W State St/ M. L. K. Jr St
 Turn left onto Brindley St
 Turn left onto Taber St
-Make a U-turn on Cherry St
-Turn right onto Cherry St
-Turn left onto Taber St
-Make a U-turn on W Seneca St
-Turn right onto W Seneca St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Pleasant St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Make a U-turn on Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Make a U-turn on Grandview Ave
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto Park St
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Make a U-turn on N Corn St
+Turn left onto N Corn St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on Grandview Ct
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn right onto E Buffalo St
+Turn right onto Pearsall Pl
+Make a U-turn on Hillview Pl
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Make a U-turn on E Clinton St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn left onto Hillview Pl
+Turn right onto Hillview Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto W Clinton St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn left onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto S Cayuga St
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn left onto Grandview Ct
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn right onto W Green St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Make a U-turn on Hudson St
+Turn left onto Columbia St
+Turn right onto Turner Pl
+Turn left onto South Hill Ter
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto E Spencer St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto Fayette St
+Turn right onto Center St
+Turn left onto S Albany St
+Turn right onto N Titus Ave
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St Wb Lane
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn left onto S Meadow St
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
 Make a U-turn on W Buffalo St
+Turn left onto W Buffalo St
+Turn left onto S Meadow St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Pearsall Pl
+Make a U-turn on Hawthorne Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto Wood St
+Turn right onto S Albany St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto Hudson St
+Turn right onto Pennsylvania Ave
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Pleasant St
+Turn right onto Pleasant St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Turner Pl
+Turn left onto Pleasant St
+Turn left onto S Aurora St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Make a U-turn on Spencer Rd
+Turn right onto Park St
+Make a U-turn on N Plain St
+Turn left onto N Plain St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto W Clinton St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn right onto Fair St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn left onto S Geneva St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on Spencer Rd
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Make a U-turn on S Corn St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn left onto South Hill Ter
+Turn right onto Hillview Pl
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto N Aurora St
+Make a U-turn on N Corn St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Make a U-turn on Columbia St
+Turn right onto Crescent Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Make a U-turn on S Geneva St
+Turn right onto S Geneva St
+Turn right onto E Clinton St
+Turn left onto Pearsall Pl
+Make a U-turn on Hawthorne Cir
+Turn right onto Hawthorne Cir
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn left onto W Green St
+Turn left onto S Geneva St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn left onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn right onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Hudson St
+Make a U-turn on Pennsylvania Ave
+Turn left onto Pennsylvania Ave
+Make a U-turn on Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on Spencer Rd
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on S Geneva St
+Turn right onto S Geneva St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Make a U-turn on W Green St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn right onto S Aurora St
+Turn right onto Hillview Pl
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn right onto Fair St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto E Spencer St
+Make a U-turn on Prospect St
+Turn left onto Prospect St
+Turn left onto E Spencer St
+Turn left onto S Cayuga St
+Turn left onto W Green St
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Turner Pl
+Turn left onto South Hill Ter
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn right onto Hudson St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Make a U-turn on Grandview Ave
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Make a U-turn on Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto N Aurora St
+Make a U-turn on N Plain St
+Turn left onto N Plain St
+Turn left onto N Geneva St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn left onto South Hill Ter
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn left onto N Geneva St
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Turn left onto S Aurora St
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto W Clinton St
+Make a U-turn on S Corn St
+Turn left onto S Corn St
+Turn right onto E Clinton St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Make a U-turn on S Aurora St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Hillview Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on W Green St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn left onto S Albany St
+Turn right onto Fayette St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Pennsylvania Ave
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn right onto S Plain St
+Turn left onto Hyers St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Make a U-turn on W Buffalo St
+Turn right onto E Buffalo St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on Fayette St
+Turn right onto E Clinton St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Make a U-turn on Fair St
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Make a U-turn on Hillview Pl
+Turn right onto Hillview Pl
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto N Aurora St
+Turn left onto N Albany St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Turn right onto W State St/ M. L. K. Jr St
+Make a U-turn on N Corn St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on S Aurora St
+Turn right onto S Aurora St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto Cecil A Malone Dr
+Turn left onto S Meadow St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto Park St
+Turn right onto S Plain St
+Turn right onto S Corn St
+Turn left onto Cleveland Ave
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Make a U-turn on W Green St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Make a U-turn on Grandview Ct
+Turn left onto Grandview Ct
+Turn right onto Grandview Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on E Clinton St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Corn St
+Turn left onto Cleveland Ave
+Turn left onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Make a U-turn on W Green St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto South Hill Ter
+Turn left onto Turner Pl
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Make a U-turn on S Corn St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Crescent Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn left onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn right onto Hillview Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on E Clinton St
+Turn right onto E Clinton St
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on Wood St
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St Wb Lane
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn right onto Fair St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Make a U-turn on Wood St
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on S Fulton St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Turn right onto W Clinton St Eb Lane
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn left onto South Hill Ter
+Turn left onto Pleasant St
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on Wood St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto South Hill Ter
+Make a U-turn on S Cayuga St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Make a U-turn on Grandview Ave
+Turn right onto Grandview Ave
+Make a U-turn on Grandview Ct
+Turn left onto Grandview Ct
+Turn right onto Grandview Ave
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto W Buffalo St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn right onto S Plain St
+Turn left onto Hyers St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Make a U-turn on E Green St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Make a U-turn on W Buffalo St
+Turn right onto W Buffalo St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ct
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Turner Pl
+Make a U-turn on South Hill Ter
+Turn left onto South Hill Ter
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto S Titus Ave
+Turn right onto Fair St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Grandview Ave
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Make a U-turn on Wood St
+Turn left onto Wood St
+Turn right onto S Plain St
+Turn left onto Hyers St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on W Green St
+Turn left onto W Buffalo St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Make a U-turn on Spencer Rd
+Turn right onto Park St
+Turn left onto S Plain St
+Turn left onto Fair St
+Turn right onto S Titus Ave
+Make a U-turn on S Meadow St
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Make a U-turn on Prospect St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto W Clinton St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Make a U-turn on Grandview Ave
+Turn right onto Grandview Ave
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Make a U-turn on Prospect St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St
+Turn left onto W Clinton St Eb Lane
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn right onto Wood St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Columbia St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn right onto Wood St
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Make a U-turn on N Corn St
+Turn right onto S Corn St
+Make a U-turn on Cleveland Ave
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Hudson Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto E Green St
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn right onto Turner Pl
+Make a U-turn on South Hill Ter
+Turn left onto South Hill Ter
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn left onto Turner Pl
+Turn right onto Pleasant St
+Turn left onto S Aurora St
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Grandview Ave
+Make a U-turn on S Aurora St
+Turn right onto S Aurora St
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn right onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on W State St/ M. L. K. Jr St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn left onto S Meadow St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Wood St
+Turn left onto Fair St
+Turn right onto S Titus Ave
+Turn left onto S Meadow St
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Make a U-turn on Brindley St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on S Titus Ave
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Turn left onto N Geneva St
+Make a U-turn on Park Pl
+Turn left onto Park Pl
+Turn right onto E Buffalo St
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Turn left onto Hillview Pl
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Turn right onto Columbia St
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto W Clinton St Wb Lane
+Turn right onto S Meadow St
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn right onto E Clinton St
+Turn right onto Crescent Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on S Aurora St
+Turn left onto S Aurora St
+Turn right onto Hillview Pl
+Turn left onto Turner Pl
+Turn left onto S Cayuga St
+Make a U-turn on S Corn St
+Turn right onto S Corn St
+Turn right onto W Green St
+Turn left onto S Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Turn left onto Brindley St
+Turn right onto Brindley St
+Turn right onto W State St/ M. L. K. Jr St
+Turn right onto E Clinton St
+Make a U-turn on E Spencer St
+Turn left onto Pearsall Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
+Turn left onto W Clinton St
+Turn left onto N Plain St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Make a U-turn on Prospect St
+Turn left onto Prospect St
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Turn left onto Fair St
+Make a U-turn on Cecil A Malone Dr
+Turn left onto Cecil A Malone Dr
+Turn right onto S Meadow St
+Turn right onto E Clinton St
+Make a U-turn on Hudson St
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn left onto S Albany St
+Make a U-turn on S Geneva St
+Turn left onto S Geneva St
+Turn right onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn left onto Pearsall Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn left onto S Plain St
+Turn right onto Cleveland Ave
+Make a U-turn on S Corn St
+Turn left onto S Corn St
+Turn right onto Cleveland Ave
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Make a U-turn on Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto W Clinton St
+Make a U-turn on S Geneva St
+Turn right onto S Geneva St
+Turn right onto W Clinton St
+Turn left onto S Corn St
+Turn right onto W Clinton St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Make a U-turn on Hudson St
+Turn right onto Coddington Rd
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Make a U-turn on Pearsall Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn left onto Hyers St
+Turn left onto Wood St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Crescent Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Make a U-turn on Fair St
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Hillview Pl
+Turn left onto South Hill Ter
+Turn right onto Hillview Pl
+Turn right onto Crescent Pl
+Make a U-turn on Hawthorne Pl
+Turn left onto Hawthorne Pl
+Turn right onto Crescent Pl
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Make a U-turn on W Spencer St
+Turn left onto S Cayuga St
+Turn right onto Hillview Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Turn right onto S Fulton St
+Turn right onto N Meadow St
+Turn left onto N Corn St
+Turn right onto W State St/ M. L. K. Jr St
+Turn left onto S Cayuga St
+Make a U-turn on Prospect St
+Turn left onto W Clinton St
+Turn right onto W Clinton St Eb Lane
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn left onto Hillview Pl
+Turn left onto S Aurora St
+Turn right onto Grandview Ave
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Make a U-turn on Grandview Ave
+Turn left onto Grandview Ave
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto S Aurora St
+Make a U-turn on E Green St
+Turn left onto S Aurora St
+Make a U-turn on Grandview Ave
+Turn right onto Grandview Ave
+Turn left onto S Aurora St
+Turn left onto Hillview Pl
+Turn right onto South Hill Ter
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto S Titus Ave
+Make a U-turn on Fair St
+Turn left onto Fair St
+Turn left onto S Titus Ave
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn left onto Crescent Pl
+Make a U-turn on Pearsall Pl
+Turn right onto Pearsall Pl
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Make a U-turn on Turner Pl
+Turn left onto S Cayuga St
+Turn right onto S Albany St
+Turn right onto N Titus Ave
+Turn left onto S Cayuga St
+Make a U-turn on E Spencer St
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Make a U-turn on Coddington Rd
+Turn right onto Coddington Rd
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on Fayette St
+Turn left onto Fayette St
+Turn left onto S Cayuga St
+Turn right onto E Clinton St
+Turn right onto Hudson St
+Make a U-turn on Grandview Ave
+Turn left onto Grandview Ave
+Turn right onto Crescent Pl
+Make a U-turn on Hawthorne Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Hudson St
+Turn left onto Pearsall Pl
+Make a U-turn on Hawthorne Pl
+Turn right onto Hawthorne Pl
+Turn left onto Pearsall Pl
+Turn right onto Hudson St
+Turn left onto Hudson Pl
+Turn right onto Columbia St
+Turn left onto Turner Pl
+Make a U-turn on W Clinton St
 Arrive at destination

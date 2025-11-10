@@ -1,127 +1,143 @@
 Route 6 Directions:
 
-Start on Parker St
-Turn right onto Parker St
-Turn right onto E Buffalo St
-Turn right onto Eddy St
-Make a U-turn on W Seneca St
-Turn left onto E Seneca St
-Turn left onto Eddy St
-Turn right onto Williams St
-Make a U-turn on Stewart Ave
-Turn right onto Stewart Ave
-Turn right onto Williams St
-Make a U-turn on W Buffalo St
-Turn right onto E Buffalo St
-Turn right onto Parker St
-Make a U-turn on S Aurora St
-Turn left onto N Aurora St
-Make a U-turn on E State St / M.L.K. Jr St
-Turn right onto E State St / M.L.K. Jr St
-Make a U-turn on W Court St
-Turn right onto Terrace Pl
-Turn right onto N Tioga St
-Turn left onto E Yates St
-Make a U-turn on Linn St
-Turn left onto Linn St
-Turn right onto Linn St
-Turn left onto E Court St
-Make a U-turn on N Tioga St
-Turn left onto N Tioga St
-Make a U-turn on Cascadilla St
-Turn right onto Cascadilla St
-Turn right onto Cascadilla Ave
-Make a U-turn on S Aurora St
-Turn left onto N Aurora St
-Turn left onto Cascadilla Ave
-Make a U-turn on N Tioga St
-Turn right onto Cascadilla Ave
-Make a U-turn on N Cayuga St
-Turn right onto N Cayuga St
-Turn right onto Cascadilla Ave
-Make a U-turn on N Tioga St
-Turn left onto Farm St
-Make a U-turn on N Cayuga St
-Turn left onto Farm St
-Make a U-turn on E Yates St
-Turn right onto E Yates St
-Make a U-turn on N Tioga St
-Turn left onto E Marshall St
-Make a U-turn on Linn St
-Turn left onto Utica St
-Turn left onto Farm St
-Make a U-turn on Linn St
-Turn right onto Linn St
-Make a U-turn on Utica St
-Turn left onto Utica St
-Turn left onto Farm St
-Make a U-turn on Linn St
-Turn left onto Linn St
-Turn left onto Linn St
-Turn right onto University Ave
-Turn right onto Linn St
-Make a U-turn on Linn St
-Turn left onto Linn St
-Turn right onto Linn St
-Turn left onto Sears St
-Turn left onto Lake Ave
-Turn right onto Cascadilla St
-Turn right onto Sears St
-Make a U-turn on W Court St
-Turn left onto E Court St
-Turn right onto Linn St
-Turn right onto University Ave
-Make a U-turn on Cascadilla Park Rd
-Turn left onto Cascadilla Park Rd
-Turn left onto University Ave
-Make a U-turn on W Court St
-Turn right onto Terrace Pl
-Make a U-turn on W Buffalo St
-Turn left onto E Buffalo St
-Turn left onto Terrace Pl
-Make a U-turn on W Court St
-Turn right onto Terrace Pl
-Make a U-turn on W Buffalo St
-Turn right onto E Buffalo St
-Make a U-turn on Schuyler Pl
-Turn right onto Schuyler Pl
-Turn left onto E Buffalo St
-Turn right onto Osmun Pl
-Turn right onto Osmun Pl
-Make a U-turn on Stewart Ave
-Turn left onto Stewart Ave
-Turn right onto Osmun Pl
-Make a U-turn on W Buffalo St
-Turn right onto E Buffalo St
-Make a U-turn on N Quarry St
-Turn left onto N Quarry St
-Make a U-turn on W Buffalo St
-Turn right onto E Buffalo St
-Turn right onto Eddy St
-Make a U-turn on W Seneca St
-Turn left onto E Seneca St
-Make a U-turn on Dryden Rd
-Turn left onto Dryden Rd
-Turn right onto Eddy St
-Make a U-turn on W Seneca St
-Turn left onto E Seneca St
-Turn left onto Eddy St
-Turn right onto Williams St
-Turn right onto Highland Pl
-Turn left onto Williams St
-Turn left onto Locust Dr -City Cemetary
-Turn left onto University Ave
-Make a U-turn on W Court St
-Turn right onto Terrace Pl
-Make a U-turn on W Buffalo St
-Turn right onto E Buffalo St
-Turn right onto Eddy St
-Make a U-turn on W Seneca St
-Turn left onto E Seneca St
-Turn left onto Eddy St
-Turn right onto Williams St
-Turn left onto Stewart Ave
-Turn right onto Cornell Ave
-Turn right onto Cornell Ave
-Make a U-turn on Stewart Ave
+Start on Oakwood La
+Turn right onto Oakwood La
+Make a U-turn on Hector St
+Turn left onto Oakwood La
+Make a U-turn on Brookfield Rd
+Turn right onto Oakwood La
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Hector St
+Make a U-turn on Campbell Ave
+Turn left onto Campbell Ave
+Turn left onto Hector St
+Turn left onto Fallview Ter
+Make a U-turn on Brookfield Rd
+Turn left onto Williams Glen Rd
+Make a U-turn on Williams Glen Rd
+Turn left onto Brookfield Rd
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Hector St
+Turn left onto Vinegar Hill
+Make a U-turn on Hector St
+Turn left onto Hector St
+Make a U-turn on Taughannock Blvd
+Turn left onto Taughannock Blvd
+Turn left onto Runway La
+Turn left onto Cass Park
+Make a U-turn on Taughannock Blvd
+Turn left onto Taughannock Blvd
+Make a U-turn on Cove La
+Turn right onto Taughannock Blvd
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Turn right onto Taughannock Blvd
+Make a U-turn on Campbell Ave
+Turn right onto N Taylor Pl
+Make a U-turn on Campbell Ave
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Make a U-turn on Cove La
+Turn right onto Taughannock Blvd
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Turn right onto Hector St
+Turn right onto Campbell Ave
+Make a U-turn on Westwood Knoll
+Turn left onto N Taylor Pl
+Turn left onto Campbell Ave
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Turn right onto Cove La
+Make a U-turn on Cove La
+Turn right onto Taughannock Blvd
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn right onto Hector St
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Turn right onto Hector St
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Make a U-turn on Cove La
+Turn right onto Taughannock Blvd
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn right onto N Taylor Pl
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Make a U-turn on Cove La
+Turn right onto Taughannock Blvd
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn left onto N Taylor Pl
+Make a U-turn on Campbell Ave
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Vinegar Hill
+Turn left onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Turn right onto Hector St
+Make a U-turn on Campbell Ave
+Turn left onto Campbell Ave
+Turn left onto N Taylor Pl
+Turn right onto Hector St
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
+Turn left onto N Taylor Pl
+Make a U-turn on Campbell Ave
+Turn right onto Campbell Ave
+Make a U-turn on Westwood Knoll
+Turn right onto N Taylor Pl
+Turn left onto N Taylor Pl
+Make a U-turn on Westmount Dr
+Turn right onto Hector St
 Arrive at destination

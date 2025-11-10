@@ -1,60 +1,1675 @@
 Route 1 Directions:
 
-Start on Stewart Ave
+Start on University Ave
+Make a U-turn on University Ave
+Turn left onto E Yates St
+Make a U-turn on Linn St
+Turn right onto W Yates St
+Turn right onto E Lincoln St
+Make a U-turn on Lake St
+Turn right onto Lake St
+Turn left onto W Yates St
+Make a U-turn on N Cayuga St
+Turn left onto N Cayuga St
+Turn right onto E Tompkins St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Make a U-turn on First St
+Turn left onto Utica St
+Turn right onto W Yates St
+Make a U-turn on N Cayuga St
+Turn right onto N Cayuga St
+Turn right onto E Lewis St
+Make a U-turn on N Tioga St
+Turn right onto N Tioga St
+Turn left onto E Falls St
+Turn right onto Lake St
+Turn right onto Kline Rd Sb Lane
+Turn right onto Kline Rd Nb Lane
+Make a U-turn on Lake St
+Turn right onto Lake St
+Make a U-turn on W Falls St
+Turn right onto E Falls St
+Turn right onto W Lewis St
+Turn right onto Auburn St
+Turn right onto E Lincoln St
+Make a U-turn on Utica St
+Turn right onto W Jay St
+Turn left onto Auburn St
+Turn left onto Franklin St
+Turn left onto Willow Ave
+Turn left onto Adams St
+Turn right onto Auburn St
+Turn right onto E Jay St
+Turn right onto King St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Turn right onto King St
+Turn left onto N Tioga St
+Turn right onto W Jay St
+Turn right onto Auburn St
+Turn left onto E Lincoln St
+Turn right onto N Aurora St
+Turn left onto E Falls St
+Make a U-turn on Lake St
+Turn left onto Lake St
+Make a U-turn on Lake Ave
+Turn right onto Auburn St
+Turn left onto W Lincoln St
+Turn right onto N Cayuga St
+Make a U-turn on E York St
+Turn left onto E York St
+Turn right onto N Cayuga St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Sisson Pl
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Make a U-turn on Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn left onto W Lincoln St
+Turn left onto N Cayuga St
+Make a U-turn on W York St
+Turn right onto W York St
+Turn left onto N Cayuga St
+Turn right onto E Lincoln St
+Turn left onto Utica St
+Turn right onto E Jay St
+Turn right onto King St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn left onto Barton Pl
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn left onto Kelvin Pl
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn left onto Kelvin Pl
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Northcross Rd
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Make a U-turn on The Knoll
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Rpcc Loading Dock
+Turn left onto Rpcc Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn left onto Kelvin Pl
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn right onto Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Make a U-turn on N Willard Way
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Balch Dr
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Northcross Rd
+Turn left onto Sisson Pl
+Turn left onto Triphammer Rd
+Make a U-turn on Balch Dr
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Cornell Ave
+Make a U-turn on Llenroc Ct
+Turn left onto Llenroc Ct
+Turn left onto Cornell Ave
+Turn left onto University Ave
+Turn right onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Loop
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Jessup Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn left onto Kelvin Pl
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Thurston Ave
 Turn left onto Stewart Ave
-Make a U-turn on E State St / M.L.K. Jr St
-Turn left onto E State St / M.L.K. Jr St
-Make a U-turn on Stewart Ave
+Turn left onto Needham Pl
+Turn left onto Kline Rd
+Turn left onto Kline Rd Sb Lane
+Turn right onto Lake St
+Turn right onto E Falls St
+Turn left onto N Tioga St
+Make a U-turn on E York St
+Turn right onto E York St
+Turn left onto N Tioga St
+Turn left onto E Falls St
+Turn right onto Lake St
+Turn right onto Kline Rd Sb Lane
+Turn right onto Kline Rd
+Turn right onto Needham Pl
+Turn left onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn left onto Kelvin Pl
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn left onto Short St
+Turn right onto Franklin St
+Turn left onto Auburn St
+Turn right onto E Jay St
+Turn left onto King St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn left onto Short St
+Turn right onto Franklin St
+Turn left onto Auburn St
+Turn right onto E Jay St
+Turn right onto King St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Sisson Pl
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn left onto The Knoll
+Turn left onto Wait Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Make a U-turn on N Willard Way
+Turn right onto Willard Way
+Turn left onto E Lincoln St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Balch Dr
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Balch Dr
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto N Aurora St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Make a U-turn on Willard Loop
+Turn right onto Willard Loop
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 S
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto N Aurora St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn left onto W Lincoln St
+Turn left onto N Cayuga St
+Make a U-turn on W York St
+Turn right onto E York St
+Turn left onto N Tioga St
+Turn left onto E Falls St
+Turn right onto Lake St
+Turn right onto Kline Rd Sb Lane
+Turn right onto Kline Rd
+Turn right onto Needham Pl
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn right onto Donlon Hall Loop
+Make a U-turn on Sisson Pl
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn left onto Barton Pl
+Make a U-turn on The Knoll
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Rpcc Loading Dock
+Turn left onto Rpcc Loading Dock
+Turn left onto Sisson Pl
+Turn left onto Triphammer Rd
+Turn right onto Balch Dr
+Make a U-turn on Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto N Tioga St
+Turn left onto Queen St
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd End
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn left onto Kelvin Pl
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Rpcc Loading Dock
+Turn left onto Rpcc Loading Dock
+Turn right onto Sisson Pl
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Linn St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Sisson Pl
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 S
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn left onto Triphammer Rd
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Thurston Ave
 Turn left onto Stewart Ave
-Turn right onto E State St / M.L.K. Jr St
-Turn right onto S Quarry St
-Make a U-turn on Ferris Pl
-Turn left onto Pearsall Pl
-Make a U-turn on Hudson St
-Turn right onto Pearsall Pl
-Turn right onto Hawthorne Pl
-Make a U-turn on Crescent Pl
-Turn right onto Crescent Pl
-Turn left onto Hillview Pl
-Turn left onto South Hill Ter
-Make a U-turn on S Cayuga St
-Turn left onto S Cayuga St
-Turn left onto South Hill Ter
-Turn left onto Turner Pl
-Make a U-turn on E Clinton St
-Turn right onto Prospect St
-Turn left onto Pleasant St
-Turn left onto Turner Pl
-Turn left onto South Hill Ter
-Turn right onto Hillview Pl
-Turn right onto Crescent Pl
-Turn left onto Hawthorne Pl
-Make a U-turn on Pearsall Pl
-Turn left onto Pearsall Pl
-Turn right onto Hudson St
-Turn left onto Grandview Ave
-Make a U-turn on S Aurora St
-Turn left onto S Aurora St
-Turn left onto Grandview Ave
-Turn left onto Columbia St
-Turn right onto Giles St
-Make a U-turn on Hudson St
-Turn left onto Columbia St
-Turn right onto Turner Pl
-Turn left onto Cottage Pl
-Turn left onto Columbia St
-Turn right onto Pleasant St
-Turn right onto Hudson St
-Turn left onto Hudson Pl
-Make a U-turn on Coddington Rd
-Turn right onto Hudson Pl
-Turn left onto Hudson St
-Turn right onto Pennsylvania Ave
-Turn left onto Hudson St
-Turn left onto Prospect St
-Make a U-turn on E Spencer St
-Turn left onto Turner Pl
-Make a U-turn on E Clinton St
-Turn right onto Prospect St
-Make a U-turn on Hudson St
+Turn left onto Needham Pl
+Turn left onto Kline Rd
+Turn left onto Kline Rd Sb Lane
+Turn right onto Lake St
+Turn right onto E Falls St
+Make a U-turn on N Tioga St
+Turn right onto N Tioga St
+Turn left onto E Falls St
+Turn right onto N Cayuga St
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Make a U-turn on N Willard Way
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Make a U-turn on Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn right onto University Ave
+Turn right onto Cornell Ave
+Make a U-turn on Llenroc Ct
+Turn left onto Llenroc Ct
+Turn left onto Cornell Ave
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn left onto Barton Pl
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Northcross Rd
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 N
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Make a U-turn on The Knoll
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto Linn St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto E Tompkins St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Make a U-turn on The Knoll
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn left onto Barton Pl
+Make a U-turn on The Knoll
+Turn left onto The Knoll
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn right onto Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Make a U-turn on N Willard Way
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Northcross Rd
+Turn left onto Sisson Pl
+Turn left onto Triphammer Rd
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Rpcc Loading Dock
+Turn left onto Rpcc Loading Dock
+Turn right onto Sisson Pl
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Kelvin Pl
+Turn right onto Kelvin Pl
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 N
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Rpcc Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Make a U-turn on N Willard Way
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Auburn St
+Turn left onto E Tompkins St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Make a U-turn on Sisson Pl
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Loop
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Thurston Ave
+Turn left onto Stewart Ave
+Turn left onto Needham Pl
+Turn left onto Kline Rd
+Turn left onto Kline Rd Sb Lane
+Turn right onto Lake St
+Turn right onto E Falls St
+Turn left onto N Tioga St
+Make a U-turn on E York St
+Turn left onto E York St
+Turn right onto N Cayuga St
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Make a U-turn on Triphammer Rd
+Turn right onto Triphammer Rd
+Make a U-turn on Kelvin Pl
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Make a U-turn on The Knoll
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn right onto Willard Way
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto E Lincoln St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Make a U-turn on N Willard Way
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Donlon Hall Loop
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto N Tioga St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto Linn St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn right onto Fall Creek Dr
+Turn right onto Wait Ave
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn right onto Triphammer Rd
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn left onto Kelvin Pl
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Make a U-turn on Dickson Loading Dock
+Turn left onto Dickson Loading Dock
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Triphammer Rd
+Turn right onto Sisson Pl
+Turn left onto Donlon Hall Loop
+Turn left onto Sisson Pl
+Turn right onto Triphammer Rd
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Loop
+Turn right onto Willard Way
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn right onto Highland Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Turn right onto N Aurora St
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn left onto Kelvin Pl
+Turn left onto Balch Dr
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Nys Rte 13 S
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Turn right onto E Lincoln St
+Turn left onto Lake St
+Turn left onto Willard Way
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Wait Ave
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto The Knoll
+Turn right onto Barton Pl
+Turn right onto Stewart Ave
 Arrive at destination

@@ -1,35 +1,1251 @@
 Route 5 Directions:
 
-Start on Campbell Ave
-Make a U-turn on Campbell Ave
-Turn left onto N Taylor Pl
-Make a U-turn on Hector St
-Turn right onto N Taylor Pl
-Turn left onto N Taylor Pl
-Turn left onto Fallview Ter
-Make a U-turn on Brookfield Rd
-Turn left onto Williams Glen Rd
-Make a U-turn on Williams Glen Rd
-Turn left onto Brookfield Rd
-Turn left onto Vinegar Hill
-Make a U-turn on Cliff St
-Turn left onto Campbell Ave
-Turn left onto Oakwood La
-Make a U-turn on Brookfield Rd
-Turn right onto Oakwood La
-Turn left onto Hector St
-Turn right onto Warren Pl
-Make a U-turn on Hector St
-Turn right onto Cove La
-Make a U-turn on Taughannock Blvd
-Turn right onto Runway La
-Make a U-turn on Cove La
-Turn left onto Cove La
-Turn left onto Cove La
-Turn right onto Cove La
-Turn right onto Taughannock Blvd
-Turn right onto Cass Park
-Turn left onto Runway La
-Turn right onto Cove La
-Make a U-turn on Taughannock Blvd
+Start on Maple Dr -City Cemetary
+Turn left onto Feeney Way
+Make a U-turn on Campus Rd
+Turn left onto Campus Rd
+Turn left onto Thurston Ave
+Turn right onto Thurston Ave
+Turn left onto Fall Creek Dr
+Turn left onto Feeney Way
+Turn left onto Presidents Dr
+Turn right onto Presidents Dr
+Turn right onto Feeney Way
+Make a U-turn on Lake St
+Turn left onto Central Ave
+Turn right onto University Ave
+Turn right onto Chi Psi Driveway
+Turn right onto Chi Psi Driveway
+Turn left onto University Ave
+Make a U-turn on College Ave
+Turn left onto College Ave
+Make a U-turn on Mcgraw Pl
+Turn right onto University Ave
+Turn right onto Stewart Ave
+Turn left onto Fall Creek Dr
+Turn left onto Thurston Ave
+Make a U-turn on Highland Ave
+Turn right onto Thurston Ave
+Turn left onto Roberts Pl
+Turn right onto Wait Ave
+Turn left onto Thurston Ave
+Turn right onto Barton Pl
+Make a U-turn on Stewart Ave
+Turn left onto Stewart Ave
+Turn right onto Willard Way
+Make a U-turn on Cornell Ave
+Turn right onto Cornell Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn right onto Stewart Ave
+Turn left onto Highland Ave
+Turn right onto Highland Ave
+Turn left onto Highland Ave
+Turn left onto Fall Creek Dr
+Turn left onto Thurston Ave
+Turn right onto Cradit Farm Dr
+Turn right onto Thurston Ave
+Turn left onto Ridgewood Rd
+Turn left onto Feeney Way
+Turn right onto Tower Rd
+Turn left onto Thurston Ave
+Turn right onto Thurston Ave
+Turn left onto Stewart Ave
+Turn right onto Needham Pl
+Make a U-turn on Kline Rd
+Turn right onto Kline Rd
+Turn right onto Needham Pl
+Turn left onto Fall Creek Dr
+Turn right onto Brook La
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Fall Creek Dr
+Turn left onto Wyckoff Ave
+Make a U-turn on Oak Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn left onto Mary Ann Wood Dr
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto N Aurora St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Make a U-turn on Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Make a U-turn on Mary Ann Wood Dr
+Turn left onto Mary Ann Wood Dr
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn right onto Williams St
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn right onto Forest Park La
+Make a U-turn on Campus Rd Nb Lane
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Hudson St
+Make a U-turn on Columbia St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Make a U-turn on Dewitt Pl
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Parker St
+Make a U-turn on E Seneca St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Hudson St
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto E State St / M.L.K. Jr St
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Make a U-turn on Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto S Aurora St
+Turn right onto Pleasant St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Schuyler Pl
+Turn left onto E Buffalo St
+Turn left onto Stewart Ave
+Turn right onto Cornell Ave
+Make a U-turn on Llenroc Ct
+Turn right onto Llenroc Ct
+Turn right onto Cornell Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto University Ave
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Williams St
+Turn left onto Dewitt Pl
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Make a U-turn on Williams St
+Turn right onto Williams St
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn left onto Forest Park La
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Schuyler Pl
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Make a U-turn on Mary Ann Wood Dr
+Turn left onto Mary Ann Wood Dr
+Turn right onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Make a U-turn on Williams St
+Turn right onto Williams St
+Turn right onto Dewitt Pl
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Schuyler Pl
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Make a U-turn on Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn left onto Forest Park La
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn left onto E Seneca St
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Schuyler Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn right onto Campus Rd
+Turn left onto Forest Park La
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto University Ave
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Turn left onto Mary Ann Wood Dr
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn right onto Williams St
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn left onto E Seneca St
+Make a U-turn on Schuyler Pl
+Turn right onto Schuyler Pl
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on S Aurora St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Schuyler Pl
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Make a U-turn on Mary Ann Wood Dr
+Turn right onto Mary Ann Wood Dr
+Make a U-turn on Campus Rd Nb Lane
+Turn right onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto Osmun Pl
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn right onto Williams St
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Make a U-turn on Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Elm Dr City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto E Buffalo St
+Turn left onto Schuyler Pl
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Make a U-turn on Schuyler Pl
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Schuyler Pl
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Cascadilla Park Rd
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto University Ave
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Make a U-turn on Dewitt Pl
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Schuyler Pl
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto Parker St
+Make a U-turn on E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn left onto Forest Park La
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Turn left onto Mary Ann Wood Dr
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn right onto Cascadilla Park Rd
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Dewitt Pl
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn left onto Forest Park La
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn right onto E State St / M.L.K. Jr St
+Make a U-turn on E Green To E Seneca Connector
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Turn right onto Campus Rd
+Make a U-turn on Forest Park La
+Turn left onto Forest Park La
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Make a U-turn on Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Schuyler Pl
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Make a U-turn on Williams St
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto Stewart Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Make a U-turn on Elm Dr City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Schuyler Pl
+Turn left onto E Buffalo St
+Make a U-turn on Osmun Pl
+Turn right onto Osmun Pl
+Turn right onto Schuyler Pl
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto E Buffalo St
+Turn right onto Schuyler Pl
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on E Green St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Schuyler Pl
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on E Buffalo St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto West Ave Wb Lane
+Make a U-turn on Mary Ann Wood Dr
+Turn left onto Mary Ann Wood Dr
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn left onto Williams St
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Make a U-turn on Schuyler Pl
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Dewitt Pl
+Make a U-turn on Central Ave
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Hudson St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Make a U-turn on Mary Ann Wood Dr
+Turn left onto Mary Ann Wood Dr
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on E Buffalo St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Make a U-turn on E Buffalo St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Make a U-turn on Osmun Pl
+Turn right onto Osmun Pl
+Turn left onto Osmun Pl
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn left onto E Seneca St
+Make a U-turn on Schuyler Pl
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn right onto Dewitt Pl
+Turn right onto Dewitt Pl
+Turn left onto Stewart Ave
+Turn right onto Cornell Ave
+Make a U-turn on Llenroc Ct
+Turn left onto Llenroc Ct
+Turn right onto Cornell Ave
+Turn right onto Stewart Ave
+Turn right onto Dewitt Pl
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Parker St
+Make a U-turn on Schuyler Pl
+Turn left onto Schuyler Pl
+Turn right onto E Seneca St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on E Buffalo St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto Dewitt Pl
+Turn right onto Locust Dr -City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto Giles St
+Turn right onto Hudson St
+Turn right onto Prospect St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Make a U-turn on Cascadilla Park Rd
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Make a U-turn on Mary Ann Wood Dr
+Turn left onto Mary Ann Wood Dr
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn right onto Locust Dr -City Cemetary
+Turn right onto Elm Dr City Cemetary
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Make a U-turn on Parker St
+Turn left onto Parker St
+Turn right onto E Buffalo St
+Turn left onto Terrace Pl
+Turn right onto Linn St
+Turn right onto University Ave
+Turn left onto Cascadilla Park Rd
+Turn left onto University Ave
+Turn left onto Parker St
+Make a U-turn on Schuyler Pl
+Turn right onto Schuyler Pl
+Turn left onto E Buffalo St
+Turn right onto Osmun Pl
+Turn left onto Osmun Pl
+Turn right onto Stewart Ave
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn left onto College Ave
+Turn left onto Mary Ann Wood Dr
+Turn left onto Campus Rd
+Turn left onto West Ave
+Turn left onto University Ave
+Turn left onto Locust Dr -City Cemetary
+Turn left onto University Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn right onto Highland Pl
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Hudson St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Hudson St
 Arrive at destination

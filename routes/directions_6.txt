@@ -1,11 +1,1322 @@
 Route 7 Directions:
 
-Start on Stone Quarry Rd
-Make a U-turn on Spencer Rd
-Turn left onto S Meadow St
-Turn left onto Elmira Rd
-Make a U-turn on Elmira Rd
-Turn left onto Elmira Rd
-Turn right onto S Meadow St
-Make a U-turn on Spencer Rd
+Start on Farm St
+Turn left onto Farm St
+Make a U-turn on Linn St
+Turn left onto Linn St
+Turn right onto Linn St
+Turn left onto E Court St
+Turn right onto Linn St
+Turn right onto University Ave
+Turn right onto Linn St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Turn right onto W Seneca St
+Make a U-turn on N Meadow St
+Turn right onto N Meadow St
+Make a U-turn on Cornell Ave
+Turn right onto Cornell Ave
+Make a U-turn on Cornell Ave
+Turn right onto Cornell Ave
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Tioga St
+Turn left onto N Tioga St
+Turn right onto Third St
+Turn left onto Fifth St
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on N Meadow St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto Farm St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Turn left onto N Plain St
+Turn left onto W Court St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto N Geneva St
+Turn left onto Cascadilla St
+Turn left onto Adams St
+Turn right onto Franklin St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Turn left onto Park Pl
+Turn right onto Fifth St
+Turn left onto Hancock St
+Turn left onto Adams St
+Turn right onto Adams St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto E Buffalo St
+Turn right onto N Aurora St
+Turn left onto E Marshall St
+Turn right onto W Yates St
+Turn left onto Auburn St
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Make a U-turn on Fifth St
+Turn left onto Fifth St
+Turn left onto Cascadilla St
+Turn left onto Farm St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn left onto W Marshall St
+Turn left onto N Cayuga St
+Turn right onto W Yates St
+Turn left onto Auburn St
+Turn right onto Third St
+Make a U-turn on N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn right onto N Meadow St Nb
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn right onto Cascadilla Ave
+Turn right onto Cascadilla Ave
+Turn left onto N Cayuga St
+Turn left onto Fifth St
+Make a U-turn on Hancock St
+Turn right onto Hancock St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn left onto Morris Ave
+Turn left onto Hancock St
+Turn left onto Adams St
+Turn right onto Franklin St
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto N Albany St
+Make a U-turn on W Buffalo St
+Turn left onto W Buffalo St
+Turn left onto N Albany St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn left onto Second St
+Turn right onto Cascadilla St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Make a U-turn on Hancock St
+Turn left onto Hancock St
+Make a U-turn on N Meadow St Nb
+Turn right onto N Meadow St Nb
+Make a U-turn on Dey St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Franklin St
+Turn right onto First St
+Turn left onto Cascadilla St
+Turn left onto N Geneva St
+Make a U-turn on Second St
+Turn right onto Second St
+Turn left onto Third St
+Make a U-turn on Cascadilla St
+Turn right onto Cascadilla St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Make a U-turn on Dey St
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Make a U-turn on E Court St
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Turn left onto Morris Ave
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Make a U-turn on Third St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Make a U-turn on W Marshall St
+Turn left onto N Cayuga St
+Make a U-turn on Third St
+Turn right onto Monroe St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Make a U-turn on Cascadilla Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Turn right onto Third St
+Make a U-turn on Franklin St
+Turn right onto Franklin St
+Make a U-turn on N Meadow St Nb
+Turn right onto N Meadow St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto E Marshall St
+Turn right onto N Aurora St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Turn left onto Third St
+Make a U-turn on Nys Rte 13 Sb
+Turn right onto N Meadow St Nb
+Turn left onto Dey St
+Make a U-turn on Short St
+Turn left onto Short St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Second St
+Make a U-turn on Madison St
+Turn left onto Second St
+Make a U-turn on Franklin St
+Turn right onto Franklin St
+Turn left onto First St
+Turn left onto Monroe St
+Turn right onto Third St
+Make a U-turn on Cascadilla St
+Turn right onto Cascadilla St
+Make a U-turn on N Tioga St
+Turn right onto N Tioga St
+Turn left onto E Court St
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn left onto Park Pl
+Turn right onto W Buffalo St
+Turn left onto N Cayuga St
+Turn right onto E Seneca St
+Turn left onto N Cayuga St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto E Green St
+Turn left onto N Cayuga St
+Turn left onto Adams St
+Turn right onto Adams St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Make a U-turn on Franklin St
+Turn right onto Franklin St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Madison St
+Turn right onto First St
+Turn left onto Cascadilla St
+Turn left onto N Geneva St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto First St
+Turn left onto Cascadilla St
+Turn right onto Farm St
+Make a U-turn on N Aurora St
+Turn left onto N Aurora St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn right onto Fourth St
+Turn left onto Madison St
+Turn right onto Fifth St
+Turn left onto Cascadilla St
+Turn left onto Esty St
+Turn right onto Park Pl
+Turn left onto Cascadilla St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Make a U-turn on Third St
+Turn left onto Third St
+Make a U-turn on N Meadow St Sb
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Make a U-turn on N Meadow St Nb
+Turn left onto Esty St
+Turn left onto Park Pl
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn left onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn right onto First St
+Turn left onto Monroe St
+Turn right onto Third St
+Turn left onto Fifth St
+Make a U-turn on Hancock St
+Turn right onto Hancock St
+Turn left onto Fifth St
+Make a U-turn on Cascadilla St
+Turn right onto Hancock St
+Turn left onto Second St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn right onto S Aurora St
+Make a U-turn on Esty St
+Turn left onto Esty St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Turn right onto Madison St
+Turn right onto Lake Ave
+Turn right onto Madison St
+Turn left onto Willow Ave
+Make a U-turn on W Marshall St
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn left onto Adams St
+Make a U-turn on Alice Miller Way
+Turn right onto First St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Make a U-turn on Monroe St
+Turn left onto Monroe St
+Turn right onto Third St
+Make a U-turn on Cascadilla St
+Turn right onto Cascadilla St
+Turn left onto N Plain St
+Turn left onto Esty St
+Turn left onto N Albany St
+Turn right onto Third St
+Turn right onto First St
+Turn right onto Third St
+Make a U-turn on Morris Ave
+Turn left onto Morris Ave
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn left onto Fifth St
+Turn left onto Cascadilla St
+Turn right onto Monroe St
+Make a U-turn on Adams St
+Turn right onto Adams St
+Turn left onto First St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn left onto Hancock St
+Turn left onto Adams St
+Turn right onto Franklin St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn left onto Auburn St
+Turn right onto Auburn St
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn left onto Fourth St
+Turn left onto Cascadilla St
+Turn right onto Cascadilla St
+Turn left onto N Tioga St
+Turn left onto E Buffalo St
+Turn left onto N Aurora St
+Make a U-turn on Cascadilla Ave
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto N Meadow St Nb
+Turn right onto Third St
+Make a U-turn on N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn right onto Fifth St
+Turn left onto Cascadilla St
+Turn right onto Fifth St
+Turn right onto Hancock St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn right onto Franklin St
+Turn left onto First St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn right onto Cascadilla St
+Turn left onto N Albany St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto E Court St
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Turn right onto N Meadow St Nb
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn left onto Cascadilla St
+Turn right onto E Buffalo St
+Turn left onto N Aurora St
+Make a U-turn on E Marshall St
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Make a U-turn on E Marshall St
+Turn right onto N Cayuga St
+Make a U-turn on Fifth St
+Turn right onto Fifth St
+Turn right onto Madison St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Auburn St
+Make a U-turn on Dey St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn right onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn right onto Third St
+Make a U-turn on Fourth St
+Turn left onto Fourth St
+Turn right onto Hancock St
+Turn right onto Third St
+Turn left onto N Plain St
+Turn left onto W Buffalo St
+Turn left onto N Albany St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn right onto Fifth St
+Turn left onto Cascadilla St
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn right onto E State St / M.L.K. Jr St
+Make a U-turn on Park Pl
+Turn left onto Park Pl
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Geneva St
+Make a U-turn on S Aurora St
+Turn right onto Esty St
+Turn left onto Cascadilla St
+Turn right onto Fifth St
+Turn right onto E Yates St
+Turn right onto W Yates St
+Turn left onto Willow Ave
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Make a U-turn on Dey St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Make a U-turn on Sears St
+Turn left onto Sears St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Turn left onto E Buffalo St
+Turn left onto Terrace Pl
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto Farm St
+Turn right onto N Tioga St
+Turn right onto Cascadilla Ave
+Make a U-turn on N Cayuga St
+Turn right onto N Cayuga St
+Make a U-turn on Park Pl
+Turn left onto Park Pl
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto Cascadilla Ave
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Albany St
+Turn left onto W Buffalo St
+Turn right onto N Geneva St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Make a U-turn on W Marshall St
+Turn left onto N Cayuga St
+Turn right onto Adams St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Make a U-turn on Madison St
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Make a U-turn on Fourth St
+Turn left onto Morris Ave
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn right onto Third St
+Turn right onto Third St
+Turn right onto N Meadow St
+Turn right onto Franklin St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn right onto Second St
+Make a U-turn on Monroe St
+Turn right onto Monroe St
+Turn left onto Second St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Make a U-turn on W Marshall St
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn right onto Third St
+Make a U-turn on Franklin St
+Turn left onto Franklin St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Geneva St
+Make a U-turn on N Meadow St Nb
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Turn right onto N Cayuga St
+Make a U-turn on Second St
+Turn right onto Second St
+Turn right onto Park Pl
+Turn right onto Esty St
+Turn left onto Park Pl
+Make a U-turn on Fifth St
+Turn right onto Hancock St
+Turn right onto Third St
+Turn left onto N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto E Yates St
+Turn right onto N Aurora St
+Turn right onto N Tioga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Turn left onto First St
+Turn right onto Cascadilla St
+Turn left onto N Tioga St
+Make a U-turn on E Buffalo St
+Turn left onto N Tioga St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn right onto N Meadow St
+Turn right onto Third St
+Turn left onto Fifth St
+Turn left onto Madison St
+Turn left onto Morris Ave
+Make a U-turn on Adams St
+Turn right onto Adams St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Make a U-turn on W Buffalo St
+Turn left onto W Buffalo St
+Turn left onto N Cayuga St
+Turn right onto Second St
+Make a U-turn on Adams St
+Turn right onto Adams St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Make a U-turn on Third St
+Turn left onto Third St
+Make a U-turn on N Meadow St Nb
+Turn right onto Cascadilla St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto S Aurora St
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Turn right onto N Meadow St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn right onto Third St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Make a U-turn on W Buffalo St
+Turn left onto N Geneva St
+Make a U-turn on N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Turn right onto N Meadow St
+Make a U-turn on Hancock St
+Turn right onto Hancock St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn right onto Third St
+Make a U-turn on N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto Utica St
+Turn right onto Farm St
+Turn right onto Cascadilla Ave
+Turn right onto E Seneca St
+Turn left onto N Cayuga St
+Make a U-turn on Fifth St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Turn right onto E Seneca St
+Turn left onto N Cayuga St
+Turn right onto Lake Ave
+Turn left onto Madison St
+Turn left onto Willow Ave
+Turn right onto Third St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Make a U-turn on Park Pl
+Turn left onto Park Pl
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on N Meadow St
+Turn right onto N Meadow St
+Turn right onto Third St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Tioga St
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn right onto Cascadilla St
+Turn left onto Madison St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St
+Turn left onto Third St
+Make a U-turn on Cascadilla St
+Turn right onto Cascadilla St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on Sears St
+Turn left onto Sears St
+Turn right onto Cascadilla St
+Make a U-turn on Fourth St
+Turn left onto Fourth St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn right onto S Aurora St
+Make a U-turn on E Green St
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto N Meadow St Nb
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Make a U-turn on N Plain St
+Turn right onto N Plain St
+Turn left onto Cascadilla St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Turn left onto Madison St
+Turn right onto Fifth St
+Make a U-turn on Cascadilla St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto Second St
+Turn left onto Hancock St
+Make a U-turn on Adams St
+Turn right onto Adams St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Nys Rte 13 Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Make a U-turn on E Marshall St
+Turn right onto W Marshall St
+Turn right onto Morris Ave
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto Second St
+Turn left onto Hancock St
+Turn left onto Adams St
+Make a U-turn on Alice Miller Way
+Turn right onto First St
+Turn left onto Second St
+Turn right onto Cascadilla St
+Turn left onto N Albany St
+Turn left onto Hancock St
+Make a U-turn on Fifth St
+Turn left onto Fifth St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn right onto S Aurora St
+Make a U-turn on E Green St
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Make a U-turn on N Fulton St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Make a U-turn on E Buffalo St
+Turn left onto N Cayuga St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Turn right onto Madison St
+Turn right onto Cascadilla St
+Turn left onto N Tioga St
+Turn right onto E Buffalo St
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Make a U-turn on Fifth St
+Turn right onto Fifth St
+Turn left onto Hancock St
+Make a U-turn on Third St
+Turn left onto Third St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn right onto First St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Turn right onto N Tioga St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Turn right onto Cascadilla St
+Turn right onto Morris Ave
+Turn left onto Third St
+Turn right onto Madison St
+Turn left onto Willow Ave
+Make a U-turn on N Aurora St
+Turn right onto N Aurora St
+Turn right onto W Yates St
+Turn left onto Auburn St
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto W Yates St
+Turn left onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn left onto N Cayuga St
+Turn right onto E Buffalo St
+Turn right onto Park Pl
+Turn left onto Cascadilla St
+Turn left onto Auburn St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Turn left onto Cascadilla Ave
+Turn right onto N Cayuga St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn right onto First St
+Make a U-turn on Second St
+Turn left onto Second St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn left onto N Plain St
+Make a U-turn on Fifth St
+Turn left onto Fifth St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Make a U-turn on W Marshall St
+Turn left onto Utica St
+Turn right onto E Lewis St
+Turn right onto W Jay St
+Turn left onto Auburn St
+Turn right onto Franklin St
+Make a U-turn on Short St
+Turn left onto Short St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Cayuga St
+Make a U-turn on N Meadow St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on Cascadilla Ave
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on S Aurora St
+Turn left onto N Aurora St
+Turn left onto Adams St
+Turn right onto Franklin St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Make a U-turn on Morris Ave
+Turn left onto Morris Ave
+Turn right onto Hancock St
+Turn left onto First St
+Turn left onto Cascadilla St
+Make a U-turn on N Cayuga St
+Turn right onto N Cayuga St
+Turn left onto Cascadilla St
+Make a U-turn on N Geneva St
+Turn left onto N Geneva St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Madison St
+Turn left onto Second St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Turn right onto N Cayuga St
+Make a U-turn on Cascadilla St
+Turn left onto Cascadilla St
+Turn right onto Fifth St
+Turn left onto Second St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Turn right onto N Meadow St Nb
+Make a U-turn on Dey St
+Turn right onto Second St
+Turn left onto Second St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Make a U-turn on E Marshall St
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Make a U-turn on Nys Rte 13 Nb
+Turn left onto Second St
+Turn right onto Cascadilla St
+Make a U-turn on Cascadilla St
+Turn right onto Fifth St
+Turn left onto Hancock St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Make a U-turn on Hancock St
+Turn right onto Hancock St
+Turn left onto Willow Ave
+Turn right onto W Marshall St
+Turn right onto Utica St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Make a U-turn on N Meadow St Sb
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto Farm St
+Make a U-turn on N Tioga St
+Turn left onto Farm St
+Turn right onto N Cayuga St
+Turn right onto Cascadilla St
+Make a U-turn on N Fulton St
+Turn right onto Hancock St
+Make a U-turn on Willow Ave
+Turn left onto Willow Ave
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn left onto N Tioga St
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Tioga St
+Turn left onto N Tioga St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Cayuga St
+Turn left onto N Cayuga St
+Make a U-turn on N Meadow St
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto E Green St
+Turn left onto N Cayuga St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn left onto Cascadilla St
+Turn right onto N Cayuga St
+Make a U-turn on N Tioga St
+Turn left onto N Tioga St
+Make a U-turn on Cascadilla St
+Turn right onto Fifth St
+Turn left onto Hancock St
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto N Tioga St
+Make a U-turn on E Buffalo St
+Turn left onto E Buffalo St
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Make a U-turn on Dey St
+Turn left onto Madison St
+Turn right onto Cascadilla St
+Turn left onto N Aurora St
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Make a U-turn on Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Hancock St
+Turn left onto First St
+Turn right onto Madison St
+Make a U-turn on Lake Ave
+Turn right onto Lake Ave
+Turn right onto Madison St
+Turn left onto Willow Ave
+Turn right onto E Marshall St
+Make a U-turn on N Aurora St
+Turn left onto N Aurora St
+Turn right onto W Marshall St
+Turn left onto Willow Ave
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Turn left onto N Aurora St
+Turn right onto Lake Ave
+Turn left onto Auburn St
+Make a U-turn on Nys Rte 13 Nb
+Turn right onto N Meadow St
+Turn left onto Third St
+Turn right onto Third St
+Turn left onto Third St
+Make a U-turn on N Meadow St Nb
+Turn left onto N Meadow St Sb
+Make a U-turn on Willow Ave
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn right onto Third St
+Turn left onto Morris Ave
+Turn left onto N Meadow St Sb
+Turn right onto Willow Ave
+Turn right onto N Meadow St Nb
+Make a U-turn on Dey St
+Turn right onto N Meadow St
+Turn left onto Third St
+Make a U-turn on Third St
+Turn right onto Third St
+Turn right onto Third St
+Turn right onto Cascadilla St
+Turn right onto Cascadilla Ave
+Make a U-turn on N Aurora St
+Turn left onto N Aurora St
+Turn right onto Cascadilla St
+Turn left onto Fourth St
+Turn right onto Cascadilla St
+Make a U-turn on N Albany St
+Turn left onto N Albany St
+Turn right onto Third St
+Turn right onto Franklin St
+Turn left onto N Meadow St Sb
+Turn left onto Willow Ave
+Turn right onto Pier Rd
+Turn right onto Willow Ave
+Turn left onto N Meadow St
+Turn left onto Third St
+Turn right onto Cascadilla St
 Arrive at destination

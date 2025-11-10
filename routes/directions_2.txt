@@ -1,24 +1,571 @@
 Route 3 Directions:
 
-Start on S Fulton St
-Make a U-turn on N Meadow St
-Turn left onto N Meadow St
-Turn left onto Third St
+Start on Cliff Park Rd
+Make a U-turn on Taylor Pl
+Turn right onto Taylor Pl
+Turn left onto Hook Pl
+Turn left onto Haller Blvd
+Turn left onto Elm St
+Turn left onto Floral Ave
+Make a U-turn on Hector St
+Turn left onto Hector St
+Make a U-turn on Floral Ave
+Turn left onto Floral Ave
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Make a U-turn on Cliff Park Cir
+Turn left onto Cliff Park Cir
+Turn left onto Cliff Park Rd
+Turn left onto Hook Pl
+Turn right onto Chestnut St
+Turn right onto Sunrise Rd
+Make a U-turn on W State St/ M. L. K. Jr St Bridge
+Turn left onto Hector St
+Turn left onto Hopper Pl
+Make a U-turn on Hector St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn right onto Sunrise Rd
+Make a U-turn on Taylor Pl
+Turn left onto Taylor Pl
+Turn right onto Sunrise Rd
+Turn right onto Sunrise Rd
+Make a U-turn on Chestnut St
+Turn right onto Cliff Park Rd
+Turn left onto Warren Pl
+Turn left onto Hook Pl
+Turn right onto Chestnut St
+Turn right onto Sunrise Rd
+Make a U-turn on W State St/ M. L. K. Jr St Bridge
+Turn left onto W State St/ M. L. K. Jr St
+Make a U-turn on Taughannock Blvd
+Turn left onto Taughannock Blvd
+Make a U-turn on Taughannock Blvd
+Turn left onto Taughannock Blvd
+Turn left onto Taughannock Blvd
+Make a U-turn on W Buffalo St
+Turn left onto N Fulton St
 Make a U-turn on Cascadilla St
-Turn left onto Cascadilla St
-Make a U-turn on Franklin St
-Turn left onto Franklin St
-Turn left onto Third St
-Turn left onto Adams St
-Turn left onto Third St
-Turn right onto Hancock St
-Turn left onto First St
-Turn left onto Hancock St
-Turn right onto N Meadow St
-Turn left onto Esty St
-Make a U-turn on S Fulton St
-Turn left onto S Fulton St
-Make a U-turn on W State St/ M. L. K. Jr St
-Turn right onto W State St/ M. L. K. Jr St
-Make a U-turn on Third St
+Turn right onto Cascadilla St
+Make a U-turn on N Fulton St
+Turn right onto Esty St
+Make a U-turn on N Fulton St
+Turn right onto W Court St
+Make a U-turn on N Fulton St
+Turn right onto W Buffalo St
+Make a U-turn on Park Rd
+Turn left onto W Buffalo St
+Turn right onto W Seneca St
+Turn left onto W State St/ M. L. K. Jr St
+Make a U-turn on N Fulton St
+Turn left onto W State St/ M. L. K. Jr St
+Make a U-turn on N Fulton St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Turn right onto Elm St
+Make a U-turn on Elmcrest Cir
+Turn left onto Elmcrest Cir
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Make a U-turn on Brindley St
+Turn left onto Taber St
+Turn left onto Cherry St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto Cecil A Malone Dr
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn right onto W Village Pl
+Turn left onto Elm St
+Turn right onto Chestnut St
+Turn left onto Sunrise Rd
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Sunrise Rd
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Turn right onto W Village Pl
+Turn left onto Elm St
+Turn right onto Chestnut St
+Turn left onto Sunrise Rd
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Brindley St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Make a U-turn on Elmcrest Cir
+Turn left onto Elmcrest Cir
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Make a U-turn on W Village Pl
+Turn right onto W Village Pl
+Turn left onto Elm St
+Turn right onto Chestnut St
+Turn left onto Sunrise Rd
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn left onto Cherry St
+Make a U-turn on Cecil A Malone Dr
+Turn right onto Cecil A Malone Dr
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn right onto W Village Pl
+Turn left onto Elm St
+Turn right onto Chestnut St
+Turn left onto Sunrise Rd
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn left onto Cherry St
+Turn right onto Cecil A Malone Dr
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn right onto Cliff Park Rd
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Sunrise Rd
+Turn left onto Sunrise Rd
+Turn right onto Taylor Pl
+Turn left onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn right onto Cliff Park Rd
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Taylor Pl
+Turn left onto Hopper Pl
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Make a U-turn on Chestnut St
+Turn right onto Cliff Park Rd
+Turn left onto Warren Pl
+Turn left onto Sunrise Rd
+Make a U-turn on Richard Pl
+Turn left onto Sunrise Rd
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Make a U-turn on Cherry St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn right onto W Village Pl
+Turn left onto Elm St
+Turn right onto Chestnut St
+Turn left onto Sunrise Rd
+Turn right onto Hector St
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Turn left onto Taber St
+Turn right onto Cherry St
+Turn left onto Taber St
+Turn left onto Hector St
+Turn right onto Warren Pl
+Make a U-turn on Richard Pl
+Turn left onto Richard Pl
+Turn right onto Warren Pl
+Turn right onto Vinegar Hill
+Turn right onto W Buffalo St
+Turn right onto Taughannock Blvd
+Turn left onto Brindley St
+Make a U-turn on Taber St
+Turn left onto Taber St
+Turn right onto Hector St
+Turn right onto Chestnut St
+Turn left onto Elm St
+Make a U-turn on W Village Pl
+Turn left onto W Village Pl
+Turn right onto Elm St
+Turn right onto Haller Blvd
+Turn left onto Cliff Park Rd
+Turn right onto Richard Pl
+Turn left onto Cliff Park Rd
+Turn left onto Haller Blvd
+Make a U-turn on W Village Pl
 Arrive at destination

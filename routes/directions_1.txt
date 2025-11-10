@@ -1,21 +1,2056 @@
 Route 2 Directions:
 
-Start on Lake St
-Make a U-turn on Lake St
-Turn right onto Lake St
-Turn right onto Kline Rd Sb Lane
-Make a U-turn on Kline Rd
-Turn right onto Kline Rd Nb Lane
-Make a U-turn on Lake St
-Turn left onto Lake St
-Turn right onto Kline Rd Nb Lane
-Turn left onto Kline Rd Sb Lane
-Turn right onto Lake St
-Make a U-turn on W Falls St
-Turn left onto E Falls St
-Make a U-turn on Lake St
-Turn right onto Lake St
-Make a U-turn on Willow Ave
-Turn right onto E Lincoln St
-Make a U-turn on Lake St
+Start on Oak Ave
+Turn right onto Oak Ave
+Make a U-turn on College Ave
+Turn right onto Hollister Dr
+Make a U-turn on College Ave
+Turn left onto College Ave
+Make a U-turn on Maple Ave
+Turn left onto Dryden Rd
+Make a U-turn on Eddy St
+Turn left onto Eddy St
+Turn right onto Dryden Rd
+Turn right onto Dryden Rd
+Make a U-turn on Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn right onto Valley Rd
+Make a U-turn on E State St / M.L.K. Jr St
+Turn right onto Valley Rd
+Make a U-turn on Giles St
+Turn left onto Giles St
+Turn left onto Bridge St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Water St
+Turn right onto Water St
+Turn right onto E State St / M.L.K. Jr St
+Turn left onto Bridge St
+Turn right onto Oneida Pl
+Turn left onto Elmwood Ave
+Turn left onto Oak Ave
+Turn right onto College Ave
+Turn left onto Catherine St
+Turn left onto Eddy St
+Turn right onto Cook St
+Make a U-turn on Blair St
+Turn left onto Blair St
+Turn left onto Cook St
+Make a U-turn on Eddy St
+Turn right onto Eddy St
+Turn left onto Catherine St
+Make a U-turn on College Ave
+Turn left onto Cook St
+Make a U-turn on Eddy St
+Turn left onto Stewart Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Stewart Ave
+Turn left onto Stewart Ave
+Turn right onto E State St / M.L.K. Jr St
+Turn left onto N Quarry St
+Make a U-turn on E Buffalo St
+Turn right onto E Buffalo St
+Make a U-turn on Eddy St
+Turn left onto Eddy St
+Turn right onto S Quarry St
+Turn left onto Ferris Pl
+Turn right onto E State St / M.L.K. Jr St
+Make a U-turn on Sage Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Stewart Ave
+Turn right onto Osmun Pl
+Turn left onto Stewart Ave
+Make a U-turn on E State St / M.L.K. Jr St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Giles St
+Turn right onto Columbia St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Make a U-turn on Hawthorne Pl
+Turn right onto Hawthorne Pl
+Turn right onto Pearsall Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Make a U-turn on Elmwood Ave
+Turn right onto Fairmount Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Worth St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Cottage Pl
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Fairmount Ave
+Turn right onto Fairmount Ave
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn right onto Valley Rd
+Make a U-turn on Valentine Pl
+Turn right onto Valentine Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Valley Rd
+Make a U-turn on Elmwood Ave
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn right onto Campus Rd
+Turn right onto Kite Hill Parking Lot
+Turn right onto Kite Hill Parking Lot
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Ridgedale Rd
+Turn left onto Ridgedale Rd
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Harvard Pl
+Turn left onto Harvard Pl
+Turn right onto Elmwood Ave
+Turn left onto Dryden Rd
+Make a U-turn on Dryden Rd Eb Lane
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Homestead Rd
+Make a U-turn on Homestead Ter
+Turn right onto Homestead Rd
+Make a U-turn on Cornell Walk
+Turn right onto Cornell Walk
+Turn left onto Valley Rd
+Turn right onto Cornell St
+Make a U-turn on Mitchell St
+Turn left onto Cobb St
+Make a U-turn on Worth St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn right onto Campus Rd
+Turn right onto Kite Hill Parking Lot
+Turn right onto Kite Hill Parking Lot
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn right onto Cornell Walk
+Turn left onto Valley Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Make a U-turn on Campus Rd
+Turn right onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn left onto Homestead Rd
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn right onto Valley Rd
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn right onto Mitchell St
+Turn left onto Ithaca Rd
+Turn left onto Ridgedale Rd
+Turn right onto Elmwood Ave
+Make a U-turn on Pearl St
+Turn right onto Pearl St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Make a U-turn on Campus Rd
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Elmwood Ave
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Ridgedale Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Fairmount Ave
+Turn left onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Statler Hotel Driveway
+Turn left onto Harvard Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn right onto Campus Rd
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn left onto Elmwood Ave
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn right onto Linden Ave
+Turn right onto Dryden Rd
+Turn left onto Bryant Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Make a U-turn on Miller St
+Turn left onto Miller St
+Turn right onto Cornell St
+Turn right onto Worth St
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Elmwood Ave
+Turn right onto Harvard Pl
+Turn left onto Bryant Ave
+Turn right onto Delaware Ave
+Turn left onto Bryant Ave
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn right onto Cornell Walk
+Turn left onto Valley Rd
+Turn right onto Cornell St
+Make a U-turn on Worth St
+Turn right onto Worth St
+Turn right onto Cobb St
+Turn left onto Miller St
+Turn right onto Cornell St
+Turn right onto Ithaca Rd
+Turn left onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Mitchell St
+Make a U-turn on Ridgedale Rd
+Turn left onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Cottage Pl
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn right onto Valley Rd
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn right onto Mitchell St
+Turn left onto Ithaca Rd
+Turn left onto Ridgedale Rd
+Turn right onto Worth St
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Worth St
+Make a U-turn on Irving Pl
+Turn right onto Irving Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Eastwood Ave
+Make a U-turn on Eastwood Ter
+Turn left onto Eastwood Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Fairmount Ave
+Turn left onto Fairmount Ave
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn right onto Worth St
+Turn right onto Irving Pl
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn right onto Irving Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Cornell St
+Turn left onto Cornell Walk
+Turn left onto Bryant Ave
+Make a U-turn on Delaware Ave
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Eastwood Ave
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Make a U-turn on Valentine Pl
+Turn right onto Valentine Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn left onto Elmwood Ave
+Make a U-turn on Ridgedale Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Eastwood Ave
+Turn left onto Cornell St
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Turn left onto Dunmore Pl
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Sage Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Eastwood Ave
+Make a U-turn on Woodcrest Ave
+Turn left onto Woodcrest Ave
+Turn right onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Make a U-turn on Worth St
+Turn left onto Worth St
+Make a U-turn on Ridgedale Rd
+Turn left onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Fairmount Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn right onto Linden Ave
+Make a U-turn on Maple Grove Pl
+Turn left onto Maple Grove Pl
+Turn left onto Oneida Pl
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Cornell St
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Delaware Ave
+Turn left onto Bryant Ave
+Turn left onto Elmwood Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Cottage Pl
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Worth St
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Turn right onto College Ave
+Turn right onto Campus Rd
+Turn right onto Kite Hill Parking Lot
+Turn right onto Kite Hill Parking Lot
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Bryant Ave
+Make a U-turn on Harvard Pl
+Turn left onto Harvard Pl
+Turn right onto Bryant Ave
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn right onto Campus Rd
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Bryant Ave
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn right onto Cornell Walk
+Turn left onto Valley Rd
+Make a U-turn on Miller St
+Turn right onto Miller St
+Turn left onto Cornell St
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Turn right onto Campus Rd
+Turn right onto College Ave
+Turn left onto Mitchell St
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Worth St
+Turn right onto Cobb St
+Turn right onto Ithaca Rd
+Turn right onto Delaware Ave
+Turn right onto Ithaca Rd
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Sage Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Bryant Ave
+Turn right onto Harvard Pl
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Columbia St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Make a U-turn on Williams St
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Worth St
+Turn right onto Irving Pl
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn right onto Delaware Ave
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Bool St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Mitchell St
+Turn right onto Worth St
+Turn right onto Cobb St
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Make a U-turn on Pearl St
+Turn right onto Pearl St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn right onto Campus Rd
+Turn right onto Kite Hill Parking Lot
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn right onto Campus Rd
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn right onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn left onto Eastwood Ave
+Turn right onto Cornell St
+Turn right onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto Bryant Ave
+Make a U-turn on Irving Pl
+Turn right onto Irving Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Delaware Ave
+Turn left onto Bryant Ave
+Turn left onto Harvard Pl
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn right onto Campus Rd
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Turn left onto Irving Pl
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn right onto Mitchell St
+Turn left onto Ithaca Rd
+Turn left onto Ridgedale Rd
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Fairmount Ave
+Turn right onto Irving Pl
+Turn left onto Irving Pl
+Turn right onto Delaware Ave
+Make a U-turn on Mitchell St
+Turn right onto Linden Ave
+Turn right onto Dryden Rd
+Make a U-turn on Dryden Rd Eb Lane
+Turn left onto Hoy Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn right onto Eastwood Ave
+Turn left onto Woodcrest Ave
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Statler Dr
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Bryant Ave
+Turn right onto Irving Pl
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn left onto Irving Pl
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Statler Dr
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Worth St
+Make a U-turn on Oxford Pl
+Turn right onto Bryant Ave
+Turn right onto Irving Pl
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn right onto Irving Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn left onto Worth St
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Elmwood Ave
+Turn right onto Dryden Rd
+Turn left onto Cornell St
+Turn right onto Miller St
+Turn right onto Pearl St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn left onto Elmwood Ave
+Turn right onto Fairmount Ave
+Make a U-turn on Oxford Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Worth St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Make a U-turn on Woodcrest Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn left onto Garden Ave
+Turn right onto Campus Rd
+Make a U-turn on Kite Hill Parking Lot
+Turn right onto Brandon Pl
+Make a U-turn on Treva Ave
+Turn right onto Treva Ave
+Turn left onto Water St
+Turn left onto Dunmore Pl
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Tower Rd
+Make a U-turn on Ag School Driveway
+Turn left onto Tower Rd
+Turn right onto Garden Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Eastwood Ave
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn left onto Fairmount Ave
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Eastwood Ave
+Make a U-turn on Woodcrest Ave
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Harvard Pl
+Turn left onto Harvard Pl
+Turn right onto Bryant Ave
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Make a U-turn on Linden Ave
+Turn left onto Mitchell St
+Turn right onto Delaware Ave
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn right onto Dryden Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn left onto Elmwood Ave
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Make a U-turn on Linden Ave
+Turn left onto Mitchell St
+Turn right onto Delaware Ave
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Bool St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Tower Rd
+Turn left onto Ag School Driveway
+Turn left onto Tower Rd
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Elmwood Ave
+Turn left onto Ridgedale Rd
+Turn right onto Elmwood Ave
+Turn left onto Worth St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Make a U-turn on Campus Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Fairmount Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Cornell St
+Turn left onto Mitchell St
+Turn right onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Dunmore Pl
+Turn right onto Brandon Pl
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Cottage Pl
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Bryant Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn left onto Worth St
+Turn right onto Elmwood Ave
+Turn right onto Ithaca Rd
+Turn right onto Delaware Ave
+Turn left onto Irving Pl
+Turn right onto Delaware Ave
+Turn left onto Irving Pl
+Turn right onto Irving Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Worth St
+Turn right onto Pearl St
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn right onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn right onto Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Make a U-turn on Dryden Rd Eb Lane
+Turn right onto Irving Pl
+Turn left onto Irving Pl
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Make a U-turn on Homestead Ter
+Turn left onto Homestead Ter
+Turn left onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Make a U-turn on Statler Hotel Driveway
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Cobb St
+Make a U-turn on Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn right onto Worth St
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Columbia St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Homestead Rd
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Elmwood Ave
+Make a U-turn on Fairmount Ave
+Turn left onto Fairmount Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn right onto Oxford Pl
+Make a U-turn on Delaware Ave
+Turn right onto Bryant Ave
+Make a U-turn on Irving Pl
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Turn left onto Ithaca Rd
+Turn left onto Ridgedale Rd
+Turn left onto Elmwood Ave
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Pearl St
+Turn right onto Pearl St
+Turn right onto Worth St
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Make a U-turn on Cottage Pl
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn left onto Elmwood Ave
+Turn right onto Ridgedale Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn left onto Homestead Rd
+Make a U-turn on Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Elmwood Ave
+Turn left onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Sage Ave
+Turn right onto Campus Rd
+Turn right onto Hoy Rd
+Make a U-turn on Dryden Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Ridgedale Rd
+Turn right onto Ridgedale Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell St
+Turn left onto Eastwood Ave
+Turn left onto Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Mitchell St
+Make a U-turn on Elmwood Ave
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn right onto Campus Rd
+Turn right onto Kite Hill Parking Lot
+Make a U-turn on Kite Hill Parking Lot
+Turn right onto College Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn left onto Dryden Rd
+Turn right onto College Ave
+Make a U-turn on Campus Rd
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn right onto Linden Ave
+Turn right onto Dryden Rd
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Make a U-turn on Delaware Ave
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Eastwood Ter
+Turn left onto Elmwood Ave
+Turn left onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn right onto Campus Rd
+Make a U-turn on Kite Hill Parking Lot
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Turn left onto Dryden Rd
+Make a U-turn on Statler Dr
+Turn right onto College Ave
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Woodcrest Ave
+Turn left onto Dunmore Pl
+Turn right onto Brandon Pl
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Harvard Pl
+Turn right onto Harvard Pl
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn right onto Elmwood Ave
+Turn right onto Ithaca Rd
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn left onto Worth St
+Make a U-turn on Cobb St
+Turn right onto Worth St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Harvard Pl
+Turn left onto Harvard Pl
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Mitchell St
+Turn left onto Ithaca Rd
+Turn left onto Ridgedale Rd
+Turn right onto Elmwood Ave
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Make a U-turn on Campus Rd
+Turn left onto Elmwood Ave
+Turn right onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Miller St
+Turn left onto Cornell St
+Make a U-turn on Homestead Rd
+Turn left onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto Williams St
+Turn left onto Williams St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto Bryant Ave
+Make a U-turn on Oxford Pl
+Turn left onto Oxford Pl
+Turn right onto Delaware Ave
+Turn right onto Mitchell St
+Turn left onto Mitchell St
+Turn right onto Delaware Ave
+Turn right onto Irving Pl
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn right onto Brandon Pl
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Make a U-turn on Delaware Ave
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn left onto Cornell St
+Turn right onto Ithaca Rd
+Turn right onto Delaware Ave
+Make a U-turn on Irving Pl
+Turn left onto Irving Pl
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Make a U-turn on Cornell Walk
+Turn left onto Cornell Walk
+Turn right onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn right onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn right onto Eastwood Ave
+Turn right onto Cornell St
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Make a U-turn on Crescent Pl
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Valley Rd
+Turn left onto Cornell Walk
+Turn right onto Valley Rd
+Turn left onto Dunmore Pl
+Turn right onto Catherine St
+Turn left onto E Seneca St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn left onto Cottage Pl
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Mitchell St
+Make a U-turn on Elmwood Ave
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Make a U-turn on Campus Rd
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Irving Pl
+Turn right onto Delaware Ave
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Eastwood Ave
+Make a U-turn on Woodcrest Ave
+Turn left onto Woodcrest Ave
+Make a U-turn on Homestead Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn left onto Statler Dr
+Turn right onto Statler Hotel Driveway
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn left onto Irving Pl
+Turn right onto Irving Pl
+Turn left onto Ithaca Rd
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn left onto College Ave
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Cornell St
+Turn left onto Ithaca Rd
+Turn right onto Ithaca Rd
+Turn right onto Ridgedale Rd
+Turn right onto Valley Rd
+Make a U-turn on Valentine Pl
+Turn right onto Valentine Pl
+Turn left onto Dunmore Pl
+Turn right onto Brandon Pl
+Turn left onto Mitchell St
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Crescent Pl
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Cornell St
+Make a U-turn on Eastwood Ave
+Turn left onto Eastwood Ave
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn right onto Oxford Pl
+Turn right onto Ithaca Rd
+Turn left onto Elmwood Ave
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Eastwood Ave
+Turn left onto Woodcrest Ave
+Turn left onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto College Ave
+Turn right onto Dryden Rd
+Turn right onto Mitchell St
+Turn left onto Linden Ave
+Turn right onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Make a U-turn on Elmwood Ave
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Worth St
+Turn right onto Miller St
+Turn right onto Cobb St
+Make a U-turn on Mitchell St
+Turn right onto Cornell St
+Turn left onto Dryden Rd
+Turn right onto Hoy Rd
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Cornell St
+Make a U-turn on Worth St
+Turn right onto Cornell St
+Make a U-turn on Mitchell St
+Turn left onto Bryant Ave
+Make a U-turn on Mitchell St
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
+Turn left onto Cornell St
+Turn right onto Homestead Rd
+Turn left onto Homestead Ter
+Make a U-turn on Woodcrest Ave
+Turn left onto Homestead Ter
+Turn right onto Homestead Rd
+Turn left onto Cornell St
+Turn right onto Mitchell St
+Turn left onto Bryant Ave
+Turn right onto Dryden Rd
+Turn left onto Eddy St
+Turn right onto Williams St
+Turn left onto Eddy St
+Turn left onto Dryden Rd
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Garden Ave
+Turn right onto Garden Ave
+Turn left onto Campus Rd
+Turn right onto Hoy Rd
+Turn left onto Ithaca Rd
+Make a U-turn on Ridgedale Rd
+Turn right onto Ithaca Rd
+Turn left onto Ithaca Rd
+Turn left onto Irving Pl
+Make a U-turn on Oxford Pl
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn left onto E Buffalo St
+Turn right onto Dryden Rd
+Turn left onto Elmwood Ave
+Make a U-turn on Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Fairmount Ave
+Turn right onto Irving Pl
+Turn left onto Irving Pl
+Turn left onto Delaware Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Mitchell St
+Make a U-turn on Miller St
+Turn left onto Miller St
+Turn right onto Cornell St
+Turn left onto Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn right onto College Ave
+Turn left onto Campus Rd
+Make a U-turn on Sage Ave
+Turn right onto Sage Ave
+Turn right onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Turn left onto Mitchell St
+Make a U-turn on Worth St
+Turn right onto Worth St
+Turn left onto Bryant Ave
+Turn left onto Dryden Rd
+Turn left onto E Buffalo St
+Turn right onto Stewart Ave
+Turn left onto E State St / M.L.K. Jr St
+Turn left onto Hudson St
+Turn right onto Columbia St
+Turn left onto Hudson St
+Turn right onto Prospect St
+Turn right onto S Aurora St
+Turn left onto E State St / M.L.K. Jr St
+Turn right onto Stewart Ave
+Turn right onto Catherine St
+Turn left onto College Ave
+Turn left onto Mitchell St
+Turn right onto Ithaca Rd
+Make a U-turn on Mitchell St
+Turn right onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Turn right onto Oak Ave
+Turn left onto College Ave
+Turn right onto Central Ave
+Turn left onto Ho Plz
+Turn left onto Central Ave
+Turn left onto University Ave
+Turn left onto Elmwood Ave
+Turn left onto Elmwood Ave
+Make a U-turn on Mitchell St
+Turn right onto Ithaca Rd
+Turn right onto Mitchell St
 Arrive at destination
